@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-tsAerospace-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\unreal_engine\plugin_development\tsCorePlugins\Intermediate\Build\Win64\tsCorePluginsEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"D:\unreal_engine\plugin_development\tsCorePlugins\Plugins\tsAerospace\Intermediate\Build\Win64\UnrealEditor\DebugGame\tsAerospace\Module.tsAerospace.cpp.obj"
+"D:\unreal_engine\plugin_development\tsCorePlugins\Plugins\tsAerospace\Intermediate\Build\Win64\UnrealEditor\DebugGame\tsAerospace\Module.tsAerospace.gen.cpp.obj"
+"D:\unreal_engine\plugin_development\tsCorePlugins\Plugins\tsAerospace\Intermediate\Build\Win64\UnrealEditor\DebugGame\tsAerospace\Default.rc2.res"
+/OUT:"D:\unreal_engine\plugin_development\tsCorePlugins\Plugins\tsAerospace\Intermediate\Build\Win64\UnrealEditor\DebugGame\tsAerospace\UnrealEditor-tsAerospace-Win64-DebugGame.lib"

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-tsAerospace.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\unreal_engine\plugin_development\tsSimPlugins - Copy\Intermediate\Build\Win64\PluginDevEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\unreal_engine\plugin_development\tsSimPlugins - Copy\Plugins\tsAerospace\Intermediate\Build\Win64\UE4Editor\Development\tsAerospace\Module.tsAerospace.cpp.obj"
+"E:\unreal_engine\plugin_development\tsSimPlugins - Copy\Plugins\tsAerospace\Intermediate\Build\Win64\UE4Editor\Development\tsAerospace\Module.tsAerospace.gen.cpp.obj"
+"E:\unreal_engine\plugin_development\tsSimPlugins - Copy\Plugins\tsAerospace\Intermediate\Build\Win64\UE4Editor\Development\tsAerospace\Default.rc2.res"
+/OUT:"E:\unreal_engine\plugin_development\tsSimPlugins - Copy\Plugins\tsAerospace\Intermediate\Build\Win64\UE4Editor\Development\tsAerospace\UE4Editor-tsAerospace.lib"

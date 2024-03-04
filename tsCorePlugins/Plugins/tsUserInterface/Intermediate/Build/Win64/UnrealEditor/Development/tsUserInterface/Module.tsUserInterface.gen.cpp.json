@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unreal_engine\\plugin_development\\tscoreplugins\\plugins\\tsuserinterface\\intermediate\\build\\win64\\unrealeditor\\development\\tsuserinterface\\module.tsuserinterface.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal_engine\\plugin_development\\tscoreplugins\\intermediate\\build\\win64\\tscorepluginseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal_engine\\plugin_development\\tscoreplugins\\plugins\\tsuserinterface\\intermediate\\build\\win64\\unrealeditor\\development\\tsuserinterface\\definitions.tsuserinterface.h",
+            "d:\\unreal_engine\\plugin_development\\tscoreplugins\\plugins\\tsuserinterface\\intermediate\\build\\win64\\unrealeditor\\inc\\tsuserinterface\\tsuserinterface.init.gen.cpp",
+            "d:\\unreal_engine\\plugin_development\\tscoreplugins\\plugins\\tsuserinterface\\intermediate\\build\\win64\\unrealeditor\\inc\\tsuserinterface\\tsuserinterfacebplibrary.gen.cpp",
+            "d:\\unreal_engine\\plugin_development\\tscoreplugins\\plugins\\tsuserinterface\\source\\tsuserinterface\\public\\tsuserinterfacebplibrary.h",
+            "d:\\unreal_engine\\plugin_development\\tscoreplugins\\plugins\\tsuserinterface\\intermediate\\build\\win64\\unrealeditor\\inc\\tsuserinterface\\tsuserinterfacebplibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

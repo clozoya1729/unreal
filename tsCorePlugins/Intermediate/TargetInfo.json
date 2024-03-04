@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "tsCorePlugins",
+			"Path": "D:\\unreal_engine\\plugin_development\\tsCorePlugins\\Source\\tsCorePlugins.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "tsCorePluginsEditor",
+			"Path": "D:\\unreal_engine\\plugin_development\\tsCorePlugins\\Source\\tsCorePluginsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

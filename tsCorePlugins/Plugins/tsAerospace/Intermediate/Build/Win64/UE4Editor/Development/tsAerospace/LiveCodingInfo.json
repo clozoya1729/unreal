@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.tsAerospace.cpp.obj": [
+			"tsAerospace.cpp.obj",
+			"tsAerospaceBPLibrary.cpp.obj"
+		],
+		"Module.tsAerospace.gen.cpp.obj": [
+			"tsAerospace.init.gen.cpp.obj",
+			"tsAerospaceBPLibrary.gen.cpp.obj"
+		]
+	}
+}

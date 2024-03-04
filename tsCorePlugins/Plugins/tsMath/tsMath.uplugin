@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "tsMath",
+	"Description": "A collection of math utilities.",
+	"Category": "Math",
+	"CreatedBy": "tensorstone software",
+	"CreatedByURL": "www.tensorstone.com",
+	"DocsURL": "www.tensorstone.com/ueplugins/math",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "tsMath",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}

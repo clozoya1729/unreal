@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "tsUserInterface",
+	"Description": "A collection of user interface utilities.",
+	"Category": "User Interface",
+	"CreatedBy": "tensorstone software",
+	"CreatedByURL": "www.tensorstone.com",
+	"DocsURL": "www.tensorstone.com/ueplugins/ui",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "tsUserInterface",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}

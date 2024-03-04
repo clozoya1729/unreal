@@ -1,0 +1,9 @@
+D:\unreal_engine\plugin_development\tsSimPlugins\Plugins\tsAerospace\Intermediate\Build\Win64\UE4Editor\Development\tsAerospace\Definitions.tsAerospace.h
+D:/unreal_engine/plugin_development/tsSimPlugins/Plugins/tsAerospace/Source/tsAerospace/Private/tsAerospace.cpp
+D:\unreal_engine\plugin_development\tsSimPlugins\Plugins\tsAerospace\Source\tsAerospace\Public\tsAerospace.h
+D:/unreal_engine/plugin_development/tsSimPlugins/Plugins/tsAerospace/Source/tsAerospace/Private/tsAerospaceBPLibrary.cpp
+D:\unreal_engine\plugin_development\tsSimPlugins\Plugins\tsAerospace\Source\tsAerospace\Public\tsAerospaceBPLibrary.h
+D:\unreal_engine\plugin_development\tsSimPlugins\Plugins\tsAerospace\Intermediate\Build\Win64\UE4Editor\Inc\tsAerospace\tsAerospaceBPLibrary.generated.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
+D:\unreal_engine\plugin_development\tsSimPlugins\Plugins\tsMath\Source\tsMath\Public\tsMathBPLibrary.h
+D:\unreal_engine\plugin_development\tsSimPlugins\Plugins\tsMath\Intermediate\Build\Win64\UE4Editor\Inc\tsMath\tsMathBPLibrary.generated.h

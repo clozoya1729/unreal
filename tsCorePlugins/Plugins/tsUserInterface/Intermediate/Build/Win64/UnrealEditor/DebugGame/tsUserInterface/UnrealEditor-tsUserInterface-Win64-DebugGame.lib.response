@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-tsUserInterface-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\unreal_engine\plugin_development\tsCorePlugins\Intermediate\Build\Win64\tsCorePluginsEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"D:\unreal_engine\plugin_development\tsCorePlugins\Plugins\tsUserInterface\Intermediate\Build\Win64\UnrealEditor\DebugGame\tsUserInterface\Module.tsUserInterface.cpp.obj"
+"D:\unreal_engine\plugin_development\tsCorePlugins\Plugins\tsUserInterface\Intermediate\Build\Win64\UnrealEditor\DebugGame\tsUserInterface\Module.tsUserInterface.gen.cpp.obj"
+"D:\unreal_engine\plugin_development\tsCorePlugins\Plugins\tsUserInterface\Intermediate\Build\Win64\UnrealEditor\DebugGame\tsUserInterface\Default.rc2.res"
+/OUT:"D:\unreal_engine\plugin_development\tsCorePlugins\Plugins\tsUserInterface\Intermediate\Build\Win64\UnrealEditor\DebugGame\tsUserInterface\UnrealEditor-tsUserInterface-Win64-DebugGame.lib"

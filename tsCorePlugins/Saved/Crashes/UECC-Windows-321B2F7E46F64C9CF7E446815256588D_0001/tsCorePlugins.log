@@ -1,0 +1,1322 @@
+﻿Log file open, 05/28/23 16:09:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=15012)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: tsCorePlugins
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:\unreal_engine\tsCorePlugins\tsCorePlugins.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2965] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="8975b31d47fcb52553e214a6db78b671"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.229793
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-321B2F7E46F64C9CF7E446815256588D
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.22 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin ClusterCommunicationPort
+LogPluginManager: Mounting Engine plugin EasyFileDialog
+LogPluginManager: Mounting Engine plugin MaxQ
+LogPluginManager: Mounting Engine plugin FileSDK
+LogPluginManager: Mounting Engine plugin FileHelper
+LogPluginManager: Mounting Engine plugin KantanCharts
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Project plugin tsAerospace
+LogPluginManager: Mounting Project plugin tsMath
+LogPluginManager: Mounting Project plugin tsUserInterface
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Marketplace/ClusterCommunicationPort/Content/' mounted to '/ClusterCommunicationPort/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Marketplace/EasyFileDialog/Content/' mounted to '/EasyFileDialog/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Marketplace/MaxQ/Content/' mounted to '/MaxQ/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Marketplace/FileHelperPlugin/Content/' mounted to '/FileHelper/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Marketplace/KantanCharts/Content/' mounted to '/KantanCharts/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: 'D:/unreal_engine/tsCorePlugins/Plugins/tsAerospace/Content/' mounted to '/tsAerospace/'
+LogPackageName: Display: FPackageName: Mount point added: 'D:/unreal_engine/tsCorePlugins/Plugins/tsMath/Content/' mounted to '/tsMath/'
+LogPackageName: Display: FPackageName: Mount point added: 'D:/unreal_engine/tsCorePlugins/Plugins/tsUserInterface/Content/' mounted to '/tsUserInterface/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2965] (), CPU: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.05.28-22.09.03:953][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.05.28-22.09.03:953][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.05.28-22.09.03:953][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.05.28-22.09.03:956][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.05.28-22.09.03:956][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.05.28-22.09.03:956][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.05.28-22.09.03:956][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.05.28-22.09.03:956][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.05.28-22.09.03:956][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.05.28-22.09.03:956][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.05.28-22.09.03:956][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.05.28-22.09.03:956][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.05.28-22.09.03:956][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.05.28-22.09.03:956][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.05.28-22.09.03:967][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.05.28-22.09.03:975][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.05.28-22.09.03:976][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2023.05.28-22.09.03:976][  0]LogD3D11RHI: D3D11 adapters:
+[2023.05.28-22.09.03:976][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2023.05.28-22.09.03:976][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2023.05.28-22.09.03:976][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.05.28-22.09.03:976][  0]LogD3D11RHI:     DeviceId    : 25a0
+[2023.05.28-22.09.03:976][  0]LogD3D11RHI:     SubSysId    : 134c1043
+[2023.05.28-22.09.03:976][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.05.28-22.09.03:976][  0]LogD3D11RHI:     DedicatedVideoMemory : 4169138176 bytes
+[2023.05.28-22.09.03:976][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.05.28-22.09.03:976][  0]LogD3D11RHI:     SharedSystemMemory : 8420700160 bytes
+[2023.05.28-22.09.03:976][  0]LogD3D11RHI:     AdapterLuid : 0 74014
+[2023.05.28-22.09.04:752][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3050 Ti Laptop GPU' (Feature Level 11_1)
+[2023.05.28-22.09.04:752][  0]LogD3D11RHI:       3976/0/8030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.05.28-22.09.04:752][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2023.05.28-22.09.04:752][  0]LogD3D11RHI:     Description : Intel(R) UHD Graphics
+[2023.05.28-22.09.04:752][  0]LogD3D11RHI:     VendorId    : 8086
+[2023.05.28-22.09.04:752][  0]LogD3D11RHI:     DeviceId    : 9a60
+[2023.05.28-22.09.04:752][  0]LogD3D11RHI:     SubSysId    : 134c1043
+[2023.05.28-22.09.04:752][  0]LogD3D11RHI:     Revision    : 0001
+[2023.05.28-22.09.04:752][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2023.05.28-22.09.04:752][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.05.28-22.09.04:752][  0]LogD3D11RHI:     SharedSystemMemory : 8420700160 bytes
+[2023.05.28-22.09.04:752][  0]LogD3D11RHI:     AdapterLuid : 0 73183
+[2023.05.28-22.09.04:779][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_1)
+[2023.05.28-22.09.04:779][  0]LogD3D11RHI:       128/0/8030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.05.28-22.09.04:779][  0]LogD3D11RHI: Testing D3D11 Adapter 2:
+[2023.05.28-22.09.04:779][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2023.05.28-22.09.04:779][  0]LogD3D11RHI:     VendorId    : 1414
+[2023.05.28-22.09.04:779][  0]LogD3D11RHI:     DeviceId    : 008c
+[2023.05.28-22.09.04:779][  0]LogD3D11RHI:     SubSysId    : 0000
+[2023.05.28-22.09.04:779][  0]LogD3D11RHI:     Revision    : 0000
+[2023.05.28-22.09.04:779][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2023.05.28-22.09.04:779][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.05.28-22.09.04:779][  0]LogD3D11RHI:     SharedSystemMemory : 8420700160 bytes
+[2023.05.28-22.09.04:779][  0]LogD3D11RHI:     AdapterLuid : 0 76937
+[2023.05.28-22.09.04:780][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2023.05.28-22.09.04:780][  0]LogD3D11RHI:       0/0/8030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.05.28-22.09.04:780][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.05.28-22.09.04:780][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2023.05.28-22.09.04:780][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.05.28-22.09.04:780][  0]LogD3D11RHI:     DeviceId    : 25a0
+[2023.05.28-22.09.04:780][  0]LogD3D11RHI:     SubSysId    : 134c1043
+[2023.05.28-22.09.04:780][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.05.28-22.09.04:780][  0]LogD3D11RHI:     DedicatedVideoMemory : 4169138176 bytes
+[2023.05.28-22.09.04:780][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.05.28-22.09.04:780][  0]LogD3D11RHI:     SharedSystemMemory : 8420700160 bytes
+[2023.05.28-22.09.04:780][  0]LogD3D11RHI:     AdapterLuid : 0 74014
+[2023.05.28-22.09.04:780][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.05.28-22.09.04:780][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.05.28-22.09.04:780][  0]LogHAL: Display: Platform has ~ 16 GB [16841400320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.05.28-22.09.04:780][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.05.28-22.09.04:780][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.05.28-22.09.04:780][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.05.28-22.09.04:781][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.05.28-22.09.04:781][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/unreal_engine/tsCorePlugins/Saved/Config/WindowsEditor/Editor.ini]
+[2023.05.28-22.09.04:781][  0]LogInit: Computer: LAPTOP-SDM8U892
+[2023.05.28-22.09.04:781][  0]LogInit: User: clozo
+[2023.05.28-22.09.04:781][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.05.28-22.09.04:781][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.05.28-22.09.04:781][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2023.05.28-22.09.04:781][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.05.28-22.09.04:781][  0]LogMemory: Process Physical Memory: 271.96 MB used, 288.11 MB peak
+[2023.05.28-22.09.04:781][  0]LogMemory: Process Virtual Memory: 242.97 MB used, 242.97 MB peak
+[2023.05.28-22.09.04:781][  0]LogMemory: Physical Memory: 6150.93 MB used,  9910.29 MB free, 16061.21 MB total
+[2023.05.28-22.09.04:781][  0]LogMemory: Virtual Memory: 7925.51 MB used,  25543.70 MB free, 33469.21 MB total
+[2023.05.28-22.09.04:781][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.05.28-22.09.04:784][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.05.28-22.09.04:793][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.05.28-22.09.04:794][  0]LogInit: Using OS detected language (en-US).
+[2023.05.28-22.09.04:794][  0]LogInit: Using OS detected locale (en-US).
+[2023.05.28-22.09.04:798][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.05.28-22.09.04:915][  0]LogInit: Setting process to per monitor DPI aware
+[2023.05.28-22.09.04:925][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.05.28-22.09.04:925][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.05.28-22.09.04:925][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.05.28-22.09.05:212][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.05.28-22.09.05:212][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.05.28-22.09.05:309][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.05.28-22.09.05:309][  0]LogD3D11RHI:     GPU DeviceId: 0x25a0 (for the marketing name, search the web for "GPU Device Id")
+[2023.05.28-22.09.05:309][  0]LogWindows: Attached monitors:
+[2023.05.28-22.09.05:309][  0]LogWindows:     resolution: 1920x1200, work area: (0, 30) -> (1920, 1200), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.05.28-22.09.05:309][  0]LogWindows: Found 1 attached monitors.
+[2023.05.28-22.09.05:309][  0]LogWindows: EnumDisplayDevices:
+[2023.05.28-22.09.05:309][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.05.28-22.09.05:309][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.05.28-22.09.05:309][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.05.28-22.09.05:309][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.05.28-22.09.05:310][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3050 Ti Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.05.28-22.09.05:310][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3050 Ti Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.05.28-22.09.05:310][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3050 Ti Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.05.28-22.09.05:310][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3050 Ti Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY8'
+[2023.05.28-22.09.05:310][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.05.28-22.09.05:310][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2023.05.28-22.09.05:310][  0]LogD3D11RHI:   Driver Version: 531.41 (internal:31.0.15.3141, unified:531.41)
+[2023.05.28-22.09.05:310][  0]LogD3D11RHI:      Driver Date: 3-16-2023
+[2023.05.28-22.09.05:310][  0]LogRHI: Texture pool is 2783 MB (70% of 3976 MB)
+[2023.05.28-22.09.05:310][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.05.28-22.09.05:310][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2023.05.28-22.09.05:310][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.05.28-22.09.05:310][  0]LogD3D11RHI:     DeviceId    : 25a0
+[2023.05.28-22.09.05:310][  0]LogD3D11RHI:     SubSysId    : 134c1043
+[2023.05.28-22.09.05:310][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.05.28-22.09.05:310][  0]LogD3D11RHI:     DedicatedVideoMemory : 4169138176 bytes
+[2023.05.28-22.09.05:310][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.05.28-22.09.05:310][  0]LogD3D11RHI:     SharedSystemMemory : 8420700160 bytes
+[2023.05.28-22.09.05:310][  0]LogD3D11RHI:     AdapterLuid : 0 74014
+[2023.05.28-22.09.05:379][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.05.28-22.09.05:379][  0]LogD3D11RHI: Async texture creation enabled
+[2023.05.28-22.09.05:379][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2023.05.28-22.09.05:379][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.05.28-22.09.05:409][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.05.28-22.09.05:428][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.05.28-22.09.05:431][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/unreal_engine/tsCorePlugins/tsCorePlugins.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/unreal_engine/tsCorePlugins/Intermediate/TurnkeyReport_0.log" -log="D:/unreal_engine/tsCorePlugins/Intermediate/TurnkeyLog_0.log" -project="D:/unreal_engine/tsCorePlugins/tsCorePlugins.uproject"  -platform=all'
+[2023.05.28-22.09.05:431][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/unreal_engine/tsCorePlugins/tsCorePlugins.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/unreal_engine/tsCorePlugins/Intermediate/TurnkeyReport_0.log" -log="D:/unreal_engine/tsCorePlugins/Intermediate/TurnkeyLog_0.log" -project="D:/unreal_engine/tsCorePlugins/tsCorePlugins.uproject"  -platform=all" ]
+[2023.05.28-22.09.05:446][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.05.28-22.09.05:451][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.05.28-22.09.05:451][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.05.28-22.09.05:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.05.28-22.09.05:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.05.28-22.09.05:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.05.28-22.09.05:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.05.28-22.09.05:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.05.28-22.09.05:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.05.28-22.09.05:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.05.28-22.09.05:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.05.28-22.09.05:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.05.28-22.09.05:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.05.28-22.09.05:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.05.28-22.09.05:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.05.28-22.09.05:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.05.28-22.09.05:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.05.28-22.09.05:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.05.28-22.09.05:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.05.28-22.09.05:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.05.28-22.09.05:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.05.28-22.09.05:478][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.05.28-22.09.05:478][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.05.28-22.09.05:478][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.05.28-22.09.05:480][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.05.28-22.09.05:480][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.05.28-22.09.05:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.05.28-22.09.05:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.05.28-22.09.05:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.05.28-22.09.05:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.05.28-22.09.05:483][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.05.28-22.09.05:487][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.05.28-22.09.05:489][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.05.28-22.09.05:489][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.05.28-22.09.05:489][  0]LogTargetPlatformManager:   ADPCM
+[2023.05.28-22.09.05:489][  0]LogTargetPlatformManager:   PCM
+[2023.05.28-22.09.05:491][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.05.28-22.09.05:491][  0]LogTargetPlatformManager:   BINKA
+[2023.05.28-22.09.05:491][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.05.28-22.09.05:491][  0]LogTargetPlatformManager:   OGG
+[2023.05.28-22.09.05:491][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.05.28-22.09.05:491][  0]LogTargetPlatformManager:   OPUS
+[2023.05.28-22.09.05:523][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.05.28-22.09.05:527][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.05.28-22.09.05:527][  0]LogTargetPlatformManager:   SF_METAL
+[2023.05.28-22.09.05:527][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.05.28-22.09.05:527][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.05.28-22.09.05:527][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.05.28-22.09.05:527][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.05.28-22.09.05:527][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.05.28-22.09.05:527][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.05.28-22.09.05:527][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.05.28-22.09.05:527][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.05.28-22.09.05:527][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.05.28-22.09.05:527][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.05.28-22.09.05:527][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.05.28-22.09.05:527][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.05.28-22.09.05:527][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.05.28-22.09.05:527][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.05.28-22.09.05:529][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.05.28-22.09.05:529][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.05.28-22.09.05:529][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.05.28-22.09.05:529][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.05.28-22.09.05:529][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.05.28-22.09.05:529][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.05.28-22.09.05:529][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.05.28-22.09.05:529][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.05.28-22.09.05:529][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/unreal_engine/tsCorePlugins/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.05.28-22.09.05:529][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.05.28-22.09.05:530][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/unreal_engine/tsCorePlugins/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.05.28-22.09.05:530][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.05.28-22.09.05:532][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/unreal_engine/tsCorePlugins/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.05.28-22.09.05:532][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.05.28-22.09.05:532][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/unreal_engine/tsCorePlugins/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.28-22.09.05:532][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.05.28-22.09.05:548][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.05.28-22.09.05:548][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.28-22.09.05:548][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.05.28-22.09.05:553][  0]LogDerivedDataCache: Speed tests for C:/Users/clozo/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2023.05.28-22.09.05:553][  0]LogDerivedDataCache: Display: Performance to C:/Users/clozo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1418.72MBs, RandomWriteSpeed=240.61MBs. Assigned SpeedClass 'Local'
+[2023.05.28-22.09.05:554][  0]LogDerivedDataCache: Using Local data cache path C:/Users/clozo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.05.28-22.09.05:554][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.05.28-22.09.05:554][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.05.28-22.09.05:560][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.05.28-22.09.05:560][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.05.28-22.09.05:560][  0]LogShaderCompilers: Guid format shader working directory is 16 characters bigger than the processId version (D:/unreal_engine/tsCorePlugins/Intermediate/Shaders/WorkingDirectory/6372/).
+[2023.05.28-22.09.05:560][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/clozo/AppData/Local/Temp/UnrealShaderWorkingDir/DE413B3E4A3087EF4FABB3A800BE9283/'.
+[2023.05.28-22.09.05:560][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.05.28-22.09.05:560][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2023.05.28-22.09.06:675][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.05.28-22.09.06:675][  0]LogSlate: Using FreeType 2.10.0
+[2023.05.28-22.09.06:675][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.05.28-22.09.06:700][  0]LogAssetRegistry: FAssetRegistry took 0.0097 seconds to start up
+[2023.05.28-22.09.06:706][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.05.28-22.09.06:852][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.05.28-22.09.06:852][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.05.28-22.09.07:018][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.05.28-22.09.07:018][  0]LogDeviceProfileManager: Active device profile: [00000BF75FFD6040][00000BF738F25000 50] WindowsEditor
+[2023.05.28-22.09.07:018][  0]LogDeviceProfileManager: Profiles: [00000BF75FFD5B00][00000BF74E0AC800 50] Windows, [00000BF75FFD6040][00000BF738F25000 50] WindowsEditor, [00000BF75FFD3800][00000BF754050000 50] WindowsServer, [00000BF75FFD1C00][00000BF760A90000 50] WindowsClient, [00000BF75FFD2D80][00000BF760A95000 50] IOS, [00000BF75FFD1340][00000BF760A97800 50] iPadAir2, [00000BF75FFD4B40][00000BF760A9C800 50] IPadPro, [00000BF75FFD4280][00000BF760A9A000 50] iPadAir3, [00000BF75FFD1DC0][00000BF754057800 50] iPadAir4, [00000BF75FFD4440][00000BF760AB0000 50] iPadMini4, [00000BF75FFD24C0][00000BF760AB5000 50] iPadMini5, [00000BF75FFD5400][00000BF760AB7800 50] iPadMini6, [00000BF75FFD9840][00000BF760A92800 50] iPhone6S, [00000BF75FFD9BC0][00000BF760ABC800 50] iPhone7, [00000BF75FFD94C0][00000BF760ABA000 50] iPodTouch7, [00000BF75FFD7000][00000BF760A60000 50] iPhone6SPlus, [00000BF75FFD9A00][00000BF760A65000 50] iPhone7Plus, [00000BF75FFD6E40][00000BF760A67800 50] iPhoneSE, [00000BF75FFD2140][00000BF760A6A000 50] iPhone8, [00000BF75FFD7E00][00000BF760A6C800 50] iPhone8Plus, [00000BF75FFD4980][00000BF760AB2800 50] iPhoneX, [00000BF75FFD2F40][00000BF760AD0000 50] iPhoneXS, [00000BF75FFD6580][00000BF760AD5000 50] iPhoneXSMax, [00000BF75FFD7A80][00000BF760AD7800 50] iPhoneXR, [00000BF75FFD6900][00000BF760ADA000 50] iPhone11, [00000BF75FFD2840][00000BF760ADC800 50] iPhone11Pro, [00000BF75FFD1F80][00000BF760A62800 50] iPhone11ProMax, [00000BF75FFD8C00][00000BF760A50000 50] iPhoneSE2, [00000BF75FFD3480][00000BF760A55000 50] iPhone12Mini, [00000BF75FFD3B80][00000BF760A57800 50] iPhone12, [00000BF75FFD1500][00000BF760A5A000 50] iPhone12Pro, [00000BF75FFD7700][00000BF760A5C800 50] iPhone12ProMax, [00000BF75FFD7FC0][00000BF760AD2800 50] iPhone13Mini, [00000BF75FFD4D00][00000BF760AE0000 50] iPhone13, [00000BF75FFD9680][00000BF760AE5000 50] iPhone13Pro, [00000BF75FFD8DC0][00000BF760AE7800 50] iPhone13ProMax, [00000BF75FFD9140][00000BF760AEA000 50] iPadPro105, [00000BF75FFD4600][00000BF760AEC800 50] iPadPro129, [00000BF75FFD2BC0][00000BF760A52800 50] iPadPro97, [00000BF75FFD8500][00000BF760AF0000 50] iPadPro2_129, [00000BF75FFD3100][00000BF760AF5000 50] iPad5, [00000BF75FFD8180][00000BF760AF7800 50] iPad6, [00000BF75FFD5080][00000BF760AFA000 50] iPad7, [00000BF75FFD71C0][00000BF760AFC800 50] iPad8, [00000BF75FFD5240][00000BF760AE2800 50] iPad9, [00000BF75FFD2A00][00000BF760B00000 50] iPadPro11, [00000BF75FFD3D40][00000BF760B05000 50] iPadPro2_11, [00000BF75FFD8340][00000BF760B07800 50] iPadPro3_11, [00000BF75FFD6200][00000BF760B0A000 50] iPadPro3_129, [00000BF75FFD5E80][00000BF760B0C800 50] iPadPro4_129, [00000BF75FFD1180][00000BF760AF2800 50] iPadPro5_129, [00000BF75FFD5780][00000BF760B10000 50] AppleTV, [00000BF75FFD7380][00000BF760B15000 50] AppleTV4K, [00000BF75FFD86C0][00000BF760B17800 50] TVOS, [00000BF75FFDB980][00000BF760B1C800 50] Mac, [00000BF75FFDB7C0][00000BF760B1A000 50] MacEditor, [00000BF75FFD6C80][00000BF760B02800 50] MacClient, [00000BF75FFD8880][00000BF760B20000 50] MacServer, [00000BF75FFDC080][00000BF760B27800 50] Linux, [00000BF75FFDC400][00000BF760B25000 50] LinuxEditor, [00000BF75FFDAF00][00000BF760B2A000 50] LinuxArm64Editor, [00000BF75FFD32C0][00000BF760B2C800 50] LinuxArm64, [00000BF75FFDA640][00000BF760B12800 50] LinuxClient, [00000BF75FFDAD40][00000BF760B30000 50] LinuxArm64Client, [00000BF75FFDC780][00000BF760B35000 50] LinuxServer, [00000BF75FFDC240][00000BF760B37800 50] LinuxArm64Server, [00000BF75FFDB0C0][00000BF760B3A000 50] Android, [00000BF75FFD7C40][00000BF760B3C800 50] Android_Preview_OpenGL, [00000BF75FFDA2C0][00000BF760B22800 50] Android_Preview_Vulkan, [00000BF75FFD39C0][00000BF760B40000 50] Android_Low, [00000BF75FFD9F40][00000BF760B45000 50] Android_Mid, [00000BF75FFD63C0][00000BF760B47800 50] Android_High, [00000BF75FFDA9C0][00000BF760B4A000 50] Android_Default, [00000BF75FFD55C0][00000BF760B4C800 50] Android_Adreno4xx, [00000BF75FFDA800][00000BF760B32800 50] Android_Adreno5xx_Low, [00000BF75FFDBD00][00000BF760B50000 50] Android_Adreno5xx, [00000BF75FFD8A40][00000BF760B55000 50] Android_Adreno6xx, [00000BF75FFDB600][00000BF760B57800 50] Android_Adreno6xx_Vulkan, [00000BF75FFDA480][00000BF760B5A000 50] Android_Adreno7xx, [00000BF75FFDB280][00000BF760B5C800 50] Android_Adreno7xx_Vulkan, [00000BF75FFDCB00][00000BF760B42800 50] Android_Mali_T6xx, [00000BF75FFD9D80][00000BF760B60000 50] Android_Mali_T7xx, [00000BF75FFDA100][00000BF760B65000 50] Android_Mali_T8xx, [00000BF75FFD3F00][00000BF760B67800 50] Android_Mali_G71, [00000BF75FFD6AC0][00000BF760B6A000 50] Android_Mali_G72, [00000BF75FFDD3C0][00000BF760B6C800 50] Android_Mali_G72_Vulkan, [00000BF75FFD47C0][00000BF760B52800 50] Android_Mali_G76, [00000BF75FFD6740][00000BF760B70000 50] Android_Mali_G76_Vulkan, [00000BF75FFD4EC0][00000BF760B75000 50] Android_Mali_G77, [00000BF75FFDD580][00000BF760B77800 50] Android_Mali_G77_Vulkan, [00000BF75FFD7540][00000BF760B7A000 50] Android_Mali_G78, [00000BF75FFDD900][00000BF760B7C800 50] Android_Mali_G78_Vulkan, [00000BF75FFDBEC0][00000BF760B62800 50] Android_Mali_G710, [00000BF75FFD78C0][00000BF760B80000 50] Android_Mali_G710_Vulkan, [00000BF75FFDE380][00000BF760B85000 50] Android_Xclipse_920, [00000BF75FFDC940][00000BF760B87800 50] Android_Xclipse_920_Vulkan, [00000BF75FFD2680][00000BF760B8A000 50] Android_Vulkan_SM5, [00000BF75FFDDC80][00000BF760B8C800 50] Android_PowerVR_G6xxx, [00000BF75FFDE540][00000BF760B72800 50] Android_PowerVR_GT7xxx, [00000BF75FFDBB40][00000BF760B90000 50] Android_PowerVR_GE8xxx, [00000BF75FFDE700][00000BF760B95000 50] Android_PowerVR_GM9xxx, [00000BF75FFD9300][00000BF760B97800 50] Android_PowerVR_GM9xxx_Vulkan, [00000BF75FFDF340][00000BF760B9A000 50] Android_TegraK1, [00000BF75FFDEA80][00000BF760B9C800 50] Android_Unknown_Vulkan, [00000BF75FFDDE40][00000BF760B82800 50] Oculus_Quest, [00000BF75FFDCE80][00000BF760BA0000 50] Oculus_Quest2, [00000BF75FFDF500][00000BF760BA5000 50] HoloLens, 
+[2023.05.28-22.09.07:018][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.05.28-22.09.07:021][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.05.28-22.09.07:021][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.05.28-22.09.07:021][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.05.28-22.09.07:021][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.05.28-22.09.07:021][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22621.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.05.28-22.09.08:142][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.05.28-22.09.08:283][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.05.28-22.09.08:283][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.05.28-22.09.08:283][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.05.28-22.09.08:283][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.05.28-22.09.08:283][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.05.28-22.09.08:293][  0]LogNetVersion: tsCorePlugins 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3627173546)
+[2023.05.28-22.09.08:388][  0]LogSlate: Border
+[2023.05.28-22.09.08:388][  0]LogSlate: BreadcrumbButton
+[2023.05.28-22.09.08:388][  0]LogSlate: Default
+[2023.05.28-22.09.08:388][  0]LogSlate: Icons.Save
+[2023.05.28-22.09.08:388][  0]LogSlate: Icons.Toolbar.Settings
+[2023.05.28-22.09.08:388][  0]LogSlate: ListView
+[2023.05.28-22.09.08:388][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.05.28-22.09.08:388][  0]LogSlate: SoftwareCursor_Grab
+[2023.05.28-22.09.08:388][  0]LogSlate: TableView.DarkRow
+[2023.05.28-22.09.08:388][  0]LogSlate: TableView.Row
+[2023.05.28-22.09.08:388][  0]LogSlate: TreeView
+[2023.05.28-22.09.08:682][  0]SourceControl: Source control is disabled
+[2023.05.28-22.09.08:702][  0]SourceControl: Source control is disabled
+[2023.05.28-22.09.08:702][  0]SourceControl: Source control is disabled
+[2023.05.28-22.09.08:790][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.05.28-22.09.08:790][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.05.28-22.09.08:790][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.05.28-22.09.09:502][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: C91E6FFD40F22DB5F29497944C2A11ED | Instance: F5B757F5475E8F05E6EAE089FA42C1FF (LAPTOP-SDM8U892-6372).
+[2023.05.28-22.09.09:544][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.05.28-22.09.09:547][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.05.28-22.09.09:555][  0]LogPython: Using Python 3.9.7
+[2023.05.28-22.09.10:203][  0]SourceControl: Source control is disabled
+[2023.05.28-22.09.10:205][  0]SourceControl: Source control is disabled
+[2023.05.28-22.09.10:211][  0]SourceControl: Source control is disabled
+[2023.05.28-22.09.10:215][  0]LogUProjectInfo: Found projects:
+[2023.05.28-22.09.12:317][  0]LogLinker: Warning: Asset '/KantanCharts/Style/SeriesStyles/PointStyles/PS_X' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.05.28-22.09.12:360][  0]LogOpenImageDenoise: OIDN starting up
+[2023.05.28-22.09.12:369][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.05.28-22.09.12:383][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.28-22.09.12:383][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.28-22.09.12:446][  0]LogCollectionManager: Loaded 0 collections in 0.002267 seconds
+[2023.05.28-22.09.12:551][  0]LogFileCache: Scanning file cache for directory 'D:/unreal_engine/tsCorePlugins/Saved/Collections/' took 0.00s
+[2023.05.28-22.09.12:551][  0]LogFileCache: Scanning file cache for directory 'D:/unreal_engine/tsCorePlugins/Content/Developers/clozo/Collections/' took 0.00s
+[2023.05.28-22.09.12:551][  0]LogFileCache: Scanning file cache for directory 'D:/unreal_engine/tsCorePlugins/Content/Collections/' took 0.00s
+[2023.05.28-22.09.12:551][  0]LogClass: Display: StructProperty FKantanCartesianDatapoint::Coords is not initialized properly. Module:KantanChartsDatasource File:Public/KantanCartesianDatapoint.h
+[2023.05.28-22.09.12:552][  0]LogClass: Display: 1 Uninitialized script struct members found including 0 object properties
+[2023.05.28-22.09.12:555][  0]LogEngine: Initializing Engine...
+[2023.05.28-22.09.12:566][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.05.28-22.09.12:567][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.05.28-22.09.12:760][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.05.28-22.09.12:761][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.28-22.09.12:771][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.28-22.09.12:794][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.05.28-22.09.12:795][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.05.28-22.09.12:815][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.05.28-22.09.12:815][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.05.28-22.09.12:815][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.05.28-22.09.12:816][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.05.28-22.09.12:816][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.05.28-22.09.12:816][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.28-22.09.12:816][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.28-22.09.12:816][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.28-22.09.12:816][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.28-22.09.12:816][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.28-22.09.12:816][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.28-22.09.12:816][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.28-22.09.12:816][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.28-22.09.12:816][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.28-22.09.12:816][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.28-22.09.12:816][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.28-22.09.12:822][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.28-22.09.12:986][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.28-22.09.12:986][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.28-22.09.12:988][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.28-22.09.12:988][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.28-22.09.12:988][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.05.28-22.09.12:988][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.28-22.09.12:989][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.28-22.09.12:989][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.05.28-22.09.12:989][  0]LogInit: FAudioDevice initialized.
+[2023.05.28-22.09.12:990][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.05.28-22.09.12:990][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.05.28-22.09.12:990][  0]LogInit: Texture streaming: Enabled
+[2023.05.28-22.09.13:017][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.05.28-22.09.13:023][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.05.28-22.09.13:024][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={E3D3C490-478E-46FC-F62D-63B966073463}
+[2023.05.28-22.09.13:043][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.05.28-22.09.13:049][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.05.28-22.09.13:049][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: tsCorePluginsEditor Win64 Development
+[2023.05.28-22.09.14:203][  0]LogLiveCoding: Display: First instance in process group "UE_tsCorePlugins_0x90ec3cd7", spawning console
+[2023.05.28-22.09.14:203][  0]LogLiveCoding: Display: Waiting for server
+[2023.05.28-22.09.14:203][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.05.28-22.09.20:618][  0]LogInit: Transaction tracking system initialized
+[2023.05.28-22.09.20:679][  0]BlueprintLog: New page: Editor Load
+[2023.05.28-22.09.21:195][  0]LocalizationService: Localization service is disabled
+[2023.05.28-22.09.21:577][  0]TimingProfiler: Initialize
+[2023.05.28-22.09.21:577][  0]TimingProfiler: OnSessionChanged
+[2023.05.28-22.09.21:577][  0]LoadingProfiler: Initialize
+[2023.05.28-22.09.21:577][  0]LoadingProfiler: OnSessionChanged
+[2023.05.28-22.09.21:577][  0]NetworkingProfiler: Initialize
+[2023.05.28-22.09.21:577][  0]NetworkingProfiler: OnSessionChanged
+[2023.05.28-22.09.21:577][  0]MemoryProfiler: Initialize
+[2023.05.28-22.09.21:577][  0]MemoryProfiler: OnSessionChanged
+[2023.05.28-22.09.22:635][  0]LogFileCache: Scanning file cache for directory 'D:/unreal_engine/tsCorePlugins/Content/' took 0.03s
+[2023.05.28-22.09.22:635][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.05.28-22.09.22:733][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.05.28-22.09.22:734][  0]SourceControl: Source control is disabled
+[2023.05.28-22.09.22:735][  0]LogUnrealEdMisc: Loading editor; pre map load, took 20.801
+[2023.05.28-22.09.22:735][  0]Cmd: MAP LOAD FILE="D:/unreal_engine/tsCorePlugins/Content/sim/map/simMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.28-22.09.22:735][  0]LightingResults: New page: Lighting Build
+[2023.05.28-22.09.22:740][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-22.09.22:741][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-22.09.22:741][  0]MapCheck: New page: Map Check
+[2023.05.28-22.09.22:741][  0]LightingResults: New page: Lighting Build
+[2023.05.28-22.09.22:746][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.28-22.09.22:749][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.05.28-22.09.22:930][  0]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.05.28-22.09.23:290][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.361 s
+[2023.05.28-22.09.23:290][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: 
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: Ensure condition failed: !FindPin(FFunctionEntryHelper::GetWorldContextPinName()) [File:D:\build\++UE5\Sync\Engine\Source\Editor\BlueprintGraph\Private\K2Node_FunctionEntry.cpp] [Line: 380]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: 
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: Stack: 
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfe94f5e5 UnrealEditor-BlueprintGraph.dll!UK2Node_FunctionEntry::AllocateDefaultPins() [D:\build\++UE5\Sync\Engine\Source\Editor\BlueprintGraph\Private\K2Node_FunctionEntry.cpp:380]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfe8e35c9 UnrealEditor-BlueprintGraph.dll!UK2Node::ReallocatePinsDuringReconstruction() [D:\build\++UE5\Sync\Engine\Source\Editor\BlueprintGraph\Private\K2Node.cpp:640]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfe8e5121 UnrealEditor-BlueprintGraph.dll!UK2Node::ReconstructNode() [D:\build\++UE5\Sync\Engine\Source\Editor\BlueprintGraph\Private\K2Node.cpp:741]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfe8e4c67 UnrealEditor-BlueprintGraph.dll!UEdGraphSchema_K2::ReconstructNode() [D:\build\++UE5\Sync\Engine\Source\Editor\BlueprintGraph\Private\EdGraphSchema_K2.cpp:4598]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe3e6fb43d UnrealEditor-UnrealEd.dll!FBlueprintEditorUtils::ReconstructAllNodes() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\BlueprintEditorUtils.cpp:588]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe372208b2 UnrealEditor-Kismet.dll!FBlueprintCompilationManagerImpl::FlushCompilationQueueImpl() [D:\build\++UE5\Sync\Engine\Source\Editor\Kismet\Private\BlueprintCompilationManager.cpp:1128]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe3721e303 UnrealEditor-Kismet.dll!FBlueprintCompilationManager::FlushCompilationQueue() [D:\build\++UE5\Sync\Engine\Source\Editor\Kismet\Private\BlueprintCompilationManager.cpp:3137]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40a67660 UnrealEditor-CoreUObject.dll!FScopedClassDependencyGather::~FScopedClassDependencyGather() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\Blueprint\BlueprintSupport.cpp:507]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40c809a7 UnrealEditor-CoreUObject.dll!FLinkerLoad::CreateExport() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:5148]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40c80e5b UnrealEditor-CoreUObject.dll!FLinkerLoad::CreateExportAndPreload() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3745]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40cc3cad UnrealEditor-CoreUObject.dll!FLinkerLoad::LoadAllObjects() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3921]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40e89267 UnrealEditor-CoreUObject.dll!LoadPackageInternal() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp:1346]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40c6bad4 UnrealEditor-CoreUObject.dll!<lambda_016cec4293e743540f8ee81a30ee3940>::operator()() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3293]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d245f0 UnrealEditor-CoreUObject.dll!FLinkerLoad::VerifyImportInner() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3408]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d22c27 UnrealEditor-CoreUObject.dll!FLinkerLoad::VerifyImport() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2959]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d2469f UnrealEditor-CoreUObject.dll!FLinkerLoad::VerifyImportInner() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3436]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d22c27 UnrealEditor-CoreUObject.dll!FLinkerLoad::VerifyImport() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2959]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d22673 UnrealEditor-CoreUObject.dll!FLinkerLoad::Verify() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2738]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40c983bf UnrealEditor-CoreUObject.dll!FLinkerLoad::FinalizeCreation() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2573]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d1d40c UnrealEditor-CoreUObject.dll!FLinkerLoad::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:821]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40c82e71 UnrealEditor-CoreUObject.dll!FLinkerLoad::CreateLinker() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:465]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40cb3aa9 UnrealEditor-CoreUObject.dll!GetPackageLinker() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\Linker.cpp:850]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40e88f72 UnrealEditor-CoreUObject.dll!LoadPackageInternal() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp:1239]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40c6bad4 UnrealEditor-CoreUObject.dll!<lambda_016cec4293e743540f8ee81a30ee3940>::operator()() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3293]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d245f0 UnrealEditor-CoreUObject.dll!FLinkerLoad::VerifyImportInner() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3408]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d22c27 UnrealEditor-CoreUObject.dll!FLinkerLoad::VerifyImport() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2959]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d2469f UnrealEditor-CoreUObject.dll!FLinkerLoad::VerifyImportInner() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3436]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d22c27 UnrealEditor-CoreUObject.dll!FLinkerLoad::VerifyImport() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2959]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d22673 UnrealEditor-CoreUObject.dll!FLinkerLoad::Verify() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2738]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40c983bf UnrealEditor-CoreUObject.dll!FLinkerLoad::FinalizeCreation() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2573]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d1d40c UnrealEditor-CoreUObject.dll!FLinkerLoad::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:821]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40c82e71 UnrealEditor-CoreUObject.dll!FLinkerLoad::CreateLinker() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:465]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40cb3aa9 UnrealEditor-CoreUObject.dll!GetPackageLinker() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\Linker.cpp:850]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40e88f72 UnrealEditor-CoreUObject.dll!LoadPackageInternal() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp:1239]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40c6bad4 UnrealEditor-CoreUObject.dll!<lambda_016cec4293e743540f8ee81a30ee3940>::operator()() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3293]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d245f0 UnrealEditor-CoreUObject.dll!FLinkerLoad::VerifyImportInner() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3408]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d22c27 UnrealEditor-CoreUObject.dll!FLinkerLoad::VerifyImport() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2959]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d2469f UnrealEditor-CoreUObject.dll!FLinkerLoad::VerifyImportInner() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3436]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d22c27 UnrealEditor-CoreUObject.dll!FLinkerLoad::VerifyImport() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2959]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d22673 UnrealEditor-CoreUObject.dll!FLinkerLoad::Verify() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2738]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40c983bf UnrealEditor-CoreUObject.dll!FLinkerLoad::FinalizeCreation() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2573]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d1d40c UnrealEditor-CoreUObject.dll!FLinkerLoad::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:821]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40c82e71 UnrealEditor-CoreUObject.dll!FLinkerLoad::CreateLinker() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:465]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40cb3aa9 UnrealEditor-CoreUObject.dll!GetPackageLinker() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\Linker.cpp:850]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40e88f72 UnrealEditor-CoreUObject.dll!LoadPackageInternal() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp:1239]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40c6bad4 UnrealEditor-CoreUObject.dll!<lambda_016cec4293e743540f8ee81a30ee3940>::operator()() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3293]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d245f0 UnrealEditor-CoreUObject.dll!FLinkerLoad::VerifyImportInner() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3408]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d22c27 UnrealEditor-CoreUObject.dll!FLinkerLoad::VerifyImport() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2959]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d2469f UnrealEditor-CoreUObject.dll!FLinkerLoad::VerifyImportInner() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3436]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d22c27 UnrealEditor-CoreUObject.dll!FLinkerLoad::VerifyImport() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2959]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d2469f UnrealEditor-CoreUObject.dll!FLinkerLoad::VerifyImportInner() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3436]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d22c27 UnrealEditor-CoreUObject.dll!FLinkerLoad::VerifyImport() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2959]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d22673 UnrealEditor-CoreUObject.dll!FLinkerLoad::Verify() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2738]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40c983bf UnrealEditor-CoreUObject.dll!FLinkerLoad::FinalizeCreation() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2573]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40d1d40c UnrealEditor-CoreUObject.dll!FLinkerLoad::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:821]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40c82e71 UnrealEditor-CoreUObject.dll!FLinkerLoad::CreateLinker() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:465]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40cb3aa9 UnrealEditor-CoreUObject.dll!GetPackageLinker() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\Linker.cpp:850]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40e88f72 UnrealEditor-CoreUObject.dll!LoadPackageInternal() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp:1239]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40e87c9a UnrealEditor-CoreUObject.dll!LoadPackage() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp:1520]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe40e881f0 UnrealEditor-CoreUObject.dll!LoadPackage() [D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp:1500]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe3e3319ba UnrealEditor-UnrealEd.dll!UEditorEngine::Map_Load() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\EditorServer.cpp:2694]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe3e321f7f UnrealEditor-UnrealEd.dll!UEditorEngine::HandleMapCommand() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\EditorServer.cpp:6232]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe3e3144f5 UnrealEditor-UnrealEd.dll!UEditorEngine::Exec() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\EditorServer.cpp:5722]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe3ec14b2e UnrealEditor-UnrealEd.dll!UUnrealEdEngine::Exec() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\UnrealEdSrv.cpp:659]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe3e640a2d UnrealEditor-UnrealEd.dll!FEditorFileUtils::LoadMap() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\FileHelpers.cpp:2761]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe3e6404cf UnrealEditor-UnrealEd.dll!FEditorFileUtils::LoadDefaultMapAtStartup() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\FileHelpers.cpp:4336]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe3ec4ea37 UnrealEditor-UnrealEd.dll!FUnrealEdMisc::OnInit() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\UnrealEdMisc.cpp:359]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe3ec11c7c UnrealEditor-UnrealEd.dll!EditorInit() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\UnrealEdGlobals.cpp:134]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7af940cb1 UnrealEditor.exe!GuardedMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:159]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7af940e8a UnrealEditor.exe!GuardedMainWrapper() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:147]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7af943c4d UnrealEditor.exe!LaunchWindowsStartup() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:283]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7af955564 UnrealEditor.exe!WinMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:330]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7af958736 UnrealEditor.exe!__scrt_common_main_seh() [d:\a01\_work\6\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe99487614 KERNEL32.DLL!UnknownFunction []
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: [Callstack] 0x00007ffe995c26a1 ntdll.dll!UnknownFunction []
+[2023.05.28-22.09.23:291][  0]LogOutputDevice: Error: 
+[2023.05.28-22.09.23:299][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2023.05.28-22.09.25:408][  0]LogStats:                    SendNewReport -  2.109 s
+[2023.05.28-22.09.25:408][  0]LogStats:             FDebug::EnsureFailed -  2.478 s
+[2023.05.28-22.09.25:560][  0]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Plugins\tsUserInterface\Content\spectator\camera\tsUICameraGeneral.uasset: [Compiler] Could not find a variable named "ButtonWidget" in 'tsUICameraGeneral'.
+Make sure 'tsUICameraGeneral' has been compiled for  Get ButtonWidget
+[2023.05.28-22.09.25:561][  0]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Plugins\tsUserInterface\Content\spectator\camera\tsUICameraGeneral.uasset: [Compiler] Could not find a variable named "tsUIButtonSetHome" in 'tsUICameraGeneral_C'.
+Make sure 'tsUICameraGeneral_C' has been compiled for  Get tsUIButtonSetHome
+[2023.05.28-22.09.25:561][  0]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Plugins\tsUserInterface\Content\spectator\camera\tsUICameraGeneral.uasset: [Compiler] Could not find a variable named "ButtonWidget" in 'tsUICameraGeneral'.
+Make sure 'tsUICameraGeneral' has been compiled for  Get ButtonWidget
+[2023.05.28-22.09.25:561][  0]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Plugins\tsUserInterface\Content\spectator\camera\tsUICameraGeneral.uasset: [Compiler] Could not find a variable named "tsUIButtonTextGohome" in 'tsUICameraGeneral_C'.
+Make sure 'tsUICameraGeneral_C' has been compiled for  Get tsUIButtonTextGohome
+[2023.05.28-22.09.25:623][  0]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Plugins\tsUserInterface\Content\spectator\camera\tsUICameraGeneral.uasset: [Compiler] The property associated with  Ts UIButton Text Gohome  could not be found in '/tsUserInterface/spectator/camera/tsUICameraGeneral.tsUICameraGeneral_C'
+[2023.05.28-22.09.25:623][  0]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Plugins\tsUserInterface\Content\spectator\camera\tsUICameraGeneral.uasset: [Compiler] The property associated with  Ts UIButton Set Home  could not be found in '/tsUserInterface/spectator/camera/tsUICameraGeneral.tsUICameraGeneral_C'
+[2023.05.28-22.09.25:623][  0]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Plugins\tsUserInterface\Content\spectator\camera\tsUICameraGeneral.uasset: [Compiler] The property associated with  Button Widget  could not be found in '/tsUserInterface/spectator/camera/tsUICameraGeneral.tsUICameraGeneral_C'
+[2023.05.28-22.09.25:623][  0]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Plugins\tsUserInterface\Content\spectator\camera\tsUICameraGeneral.uasset: [Compiler] The property associated with  Button Widget  could not be found in '/tsUserInterface/spectator/camera/tsUICameraGeneral.tsUICameraGeneral_C'
+[2023.05.28-22.09.25:623][  0]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Plugins\tsUserInterface\Content\spectator\camera\tsUICameraGeneral.uasset: [Compiler] Couldn't find target for dynamically bound delegate node  Bind Event to On Clicked
+[2023.05.28-22.09.25:623][  0]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Plugins\tsUserInterface\Content\spectator\camera\tsUICameraGeneral.uasset: [Compiler] Couldn't find target for dynamically bound delegate node  Bind Event to On Clicked
+[2023.05.28-22.09.26:416][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'simMap'.
+[2023.05.28-22.09.26:416][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.28-22.09.26:416][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.28-22.09.26:416][  0]LogAIModule: Creating AISystem for world simMap
+[2023.05.28-22.09.26:419][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.28-22.09.26:439][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.05.28-22.09.26:439][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.28-22.09.26:440][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
+[2023.05.28-22.09.26:440][  0]LogFileHelpers: Loading map 'simMap' took 3.706
+[2023.05.28-22.09.26:452][  0]LogUnrealEdMisc: Total Editor Startup Time, took 24.519
+[2023.05.28-22.09.26:452][  0]LogShaderCompilers: Display: ================================================
+[2023.05.28-22.09.26:452][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.28-22.09.26:452][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.05.28-22.09.26:452][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.05.28-22.09.26:452][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.05.28-22.09.26:452][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.28-22.09.26:452][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.28-22.09.26:452][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.28-22.09.26:452][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.28-22.09.26:452][  0]LogShaderCompilers: Display: ================================================
+[2023.05.28-22.09.26:762][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-22.09.26:766][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-22.09.26:820][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.05.28-22.09.26:820][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.28-22.09.26:821][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.05.28-22.09.26:821][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.28-22.09.26:821][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.05.28-22.09.26:821][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.28-22.09.26:821][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.05.28-22.09.26:821][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.28-22.09.26:822][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.05.28-22.09.26:822][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.28-22.09.26:822][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.05.28-22.09.26:822][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.28-22.09.26:822][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.05.28-22.09.26:823][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.28-22.09.26:823][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.05.28-22.09.26:823][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.28-22.09.26:823][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.05.28-22.09.26:823][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.28-22.09.26:824][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.05.28-22.09.26:824][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.28-22.09.26:824][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.05.28-22.09.26:950][  0]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.28-22.09.26:952][  0]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.05.28-22.09.26:953][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.05.28-22.09.26:954][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.05.28-22.09.26:956][  0]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.05.28-22.09.26:972][  0]LogViewport: Scene viewport resized to 320x277, mode Windowed.
+[2023.05.28-22.09.27:054][  0]LogStall: Startup...
+[2023.05.28-22.09.27:056][  0]LogStall: Startup complete.
+[2023.05.28-22.09.27:066][  0]LogLoad: (Engine Initialization) Total time: 25.13 seconds
+[2023.05.28-22.09.27:066][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.05.28-22.09.27:125][  0]LogAssetRegistry: Asset discovery search completed in 20.4273 seconds
+[2023.05.28-22.09.27:130][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.05.28-22.09.27:224][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.05.28-22.09.27:250][  0]LogScript: Warning: Accessed None trying to read property Static Mesh
+	tsCProperties_C /Game/sim/map/simMap.simMap:PersistentLevel.simAMover_C_1.tsCProperties
+	Function /tsUserInterface/base_actor/properties/tsCProperties.tsCProperties_C:ExecuteUbergraph_tsCProperties:024C
+[2023.05.28-22.09.27:250][  0]LogScript: Warning: Accessed None trying to read property Static Mesh
+	tsCProperties_C /Game/sim/map/simMap.simMap:PersistentLevel.simAMover_C_1.tsCProperties
+	Function /tsUserInterface/base_actor/properties/tsCProperties.tsCProperties_C:ExecuteUbergraph_tsCProperties:0285
+[2023.05.28-22.09.27:250][  0]LogScript: Warning: Accessed None trying to read property Static Mesh
+	tsCProperties_C /Game/sim/map/simMap.simMap:PersistentLevel.simAMover_C_1.tsCProperties
+	Function /tsUserInterface/base_actor/properties/tsCProperties.tsCProperties_C:ExecuteUbergraph_tsCProperties:02C8
+[2023.05.28-22.09.27:250][  0]LogScript: Warning: Accessed None trying to read property Static Mesh
+	tsCProperties_C /Game/sim/map/simMap.simMap:PersistentLevel.simAMover_C_1.tsCProperties
+	Function /tsUserInterface/base_actor/properties/tsCProperties.tsCProperties_C:ExecuteUbergraph_tsCProperties:031D
+[2023.05.28-22.09.27:250][  0]LogScript: Warning: Accessed None trying to read property Static Mesh
+	tsCProperties_C /Game/sim/map/simMap.simMap:PersistentLevel.simAMover_C_1.tsCProperties
+	Function /tsUserInterface/base_actor/properties/tsCProperties.tsCProperties_C:ExecuteUbergraph_tsCProperties:0017
+[2023.05.28-22.09.27:250][  0]LogScript: Warning: Accessed None trying to read property Static Mesh
+	tsCProperties_C /Game/sim/map/simMap.simMap:PersistentLevel.simAMover_C_1.tsCProperties
+	Function /tsUserInterface/base_actor/properties/tsCProperties.tsCProperties_C:ExecuteUbergraph_tsCProperties:004D
+[2023.05.28-22.09.27:250][  0]LogScript: Warning: Accessed None trying to read property Static Mesh
+	tsCProperties_C /Game/sim/map/simMap.simMap:PersistentLevel.simAMover_C_1.tsCProperties
+	Function /tsUserInterface/base_actor/properties/tsCProperties.tsCProperties_C:ExecuteUbergraph_tsCProperties:0134
+[2023.05.28-22.09.27:250][  0]LogScript: Warning: Accessed None trying to read property Marker Center Of Mass
+	tsCProperties_C /Game/sim/map/simMap.simMap:PersistentLevel.simAMover_C_1.tsCProperties
+	Function /tsUserInterface/base_actor/properties/tsCProperties.tsCProperties_C:ExecuteUbergraph_tsCProperties:016A
+[2023.05.28-22.09.27:250][  0]LogScript: Warning: Accessed None trying to read property Static Mesh
+	tsCProperties_C /Game/sim/map/simMap.simMap:PersistentLevel.simAMover_C_1.tsCProperties
+	Function /tsUserInterface/base_actor/properties/tsCProperties.tsCProperties_C:ExecuteUbergraph_tsCProperties:01B6
+[2023.05.28-22.09.27:250][  0]LogScript: Warning: Script Msg: Divide by zero: Divide_VectorVector
+[2023.05.28-22.09.27:250][  0]LogScript: Warning: Accessed None trying to read property Marker Center Of Mass
+	tsCProperties_C /Game/sim/map/simMap.simMap:PersistentLevel.simAMover_C_1.tsCProperties
+	Function /tsUserInterface/base_actor/properties/tsCProperties.tsCProperties_C:ExecuteUbergraph_tsCProperties:0205
+[2023.05.28-22.09.27:355][  2]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.28-22.09.28:411][ 26]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/race/actor/pad/volume/raceAVolumeImpulse.raceAVolumeImpulse) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.05.28-22.09.28:647][ 26]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/race/actor/pad/volume/raceAVolumeImpulse.raceAVolumeImpulse
+[2023.05.28-22.09.28:648][ 26]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.28-22.09.29:128][ 26]LogLinker: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\_deprecated\ts\lib\EmitterMacros.uasset: Failed to load '/Game/_future/_deprecated/audio/Wooshes': Can't find file.
+[2023.05.28-22.09.29:128][ 26]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/_future/_deprecated/audio/Wooshes'
+[2023.05.28-22.09.29:128][ 26]LogLinker: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\_deprecated\ts\lib\EmitterMacros.uasset: Failed to load '/Game/_future/_deprecated/audio/Explosion_Cue': Can't find file.
+[2023.05.28-22.09.29:128][ 26]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/_future/_deprecated/audio/Explosion_Cue'
+[2023.05.28-22.09.29:128][ 26]LogLinker: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\_deprecated\ts\lib\EmitterMacros.uasset: Failed to load '/Game/_future/_deprecated/audio/ultimate_Medieval_Combat_SFX/Magic_SFX_Pro/Cues/Buffs/Buff_20_Cue': Can't find file.
+[2023.05.28-22.09.29:128][ 26]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/_future/_deprecated/audio/ultimate_Medieval_Combat_SFX/Magic_SFX_Pro/Cues/Buffs/Buff_20_Cue'
+[2023.05.28-22.09.29:128][ 26]LogLinker: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\_deprecated\ts\lib\EmitterMacros.uasset: Failed to load '/Game/_future/_deprecated/audio/ultimate_Medieval_Combat_SFX/Magic_SFX_Pro/Cues/Buffs/Buff_7_Cue': Can't find file.
+[2023.05.28-22.09.29:128][ 26]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/_future/_deprecated/audio/ultimate_Medieval_Combat_SFX/Magic_SFX_Pro/Cues/Buffs/Buff_7_Cue'
+[2023.05.28-22.09.29:128][ 26]LogLinker: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\_deprecated\ts\lib\EmitterMacros.uasset: Failed to load '/Game/_future/_deprecated/audio/ultimate_Medieval_Combat_SFX/Magic_SFX_Pro/Cues/Magical_UI_Sounds/Damage_4_Cue': Can't find file.
+[2023.05.28-22.09.29:128][ 26]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/_future/_deprecated/audio/ultimate_Medieval_Combat_SFX/Magic_SFX_Pro/Cues/Magical_UI_Sounds/Damage_4_Cue'
+[2023.05.28-22.09.29:128][ 26]LogLinker: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\_deprecated\ts\lib\EmitterMacros.uasset: Failed to load '/Game/_future/_deprecated/audio/ultimate_Medieval_Combat_SFX/Magic_SFX_Pro/Cues/Magical_UI_Sounds/Notification_2_Cue': Can't find file.
+[2023.05.28-22.09.29:128][ 26]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/_future/_deprecated/audio/ultimate_Medieval_Combat_SFX/Magic_SFX_Pro/Cues/Magical_UI_Sounds/Notification_2_Cue'
+[2023.05.28-22.09.29:550][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacterComponent.uasset: [Compiler] Can't connect pins  Battle  and  Combat : Object Reference is not compatible with Melee Component Object Reference.
+[2023.05.28-22.09.29:551][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacterComponent.uasset: [Compiler] Can't connect pins  Context  and  Context : Object Reference is not compatible with Ts CContext Object Reference.
+[2023.05.28-22.09.29:551][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacterComponent.uasset: [Compiler] Can't connect pins  UI  and  UI : Object Reference is not compatible with Ts CHUD Object Reference.
+[2023.05.28-22.09.29:551][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacterComponent.uasset: [Compiler] Can't connect pins  Combat  and  Battle : Melee Component Object Reference is not compatible with Object Reference.
+[2023.05.28-22.09.29:551][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacterComponent.uasset: [Compiler] Can't connect pins  Context  and  Context : Ts CContext Object Reference is not compatible with Object Reference.
+[2023.05.28-22.09.29:551][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacterComponent.uasset: [Compiler] Can't connect pins  UI  and  UI : Ts CHUD Object Reference is not compatible with Object Reference.
+[2023.05.28-22.09.29:561][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\sys\changaInstance.uasset: [Compiler] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2023.05.28-22.09.29:561][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\sys\changaInstance.uasset: [Compiler] In use pin  Audio Controller  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:561][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\sys\changaInstance.uasset: [Compiler] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2023.05.28-22.09.29:562][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\sys\changaInstance.uasset: [Compiler] Could not find a variable named "EnergyComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get EnergyComponent
+[2023.05.28-22.09.29:562][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\sys\changaInstance.uasset: [Compiler] Could not find a variable named "HPComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get HPComponent
+[2023.05.28-22.09.29:562][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\sys\changaInstance.uasset: [Compiler] Could not find a variable named "Current Value" in 'changaInstance'.
+Make sure 'changaInstance' has been compiled for  Get Current Value
+[2023.05.28-22.09.29:562][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\sys\changaInstance.uasset: [Compiler] Could not find a variable named "Current Value" in 'changaInstance'.
+Make sure 'changaInstance' has been compiled for  Get Current Value
+[2023.05.28-22.09.29:567][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\status\DeathHandler.uasset: [Compiler] Could not find a variable named "UIComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get UIComponent generated from expanding Run Death
+[2023.05.28-22.09.29:575][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\_deprecated\ts\lib\LibUtility2.uasset: [Compiler] Can't connect pins  Combat  and  Battle : Melee Component Object Reference is not compatible with Object Reference.
+[2023.05.28-22.09.29:576][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\_deprecated\ts\lib\LibUtility2.uasset: [Compiler] Can't connect pins  Context  and  Context : Ts CContext Object Reference is not compatible with Object Reference.
+[2023.05.28-22.09.29:576][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\_deprecated\ts\lib\LibUtility2.uasset: [Compiler] Can't connect pins  UI  and  UI : Ts CHUD Object Reference is not compatible with Object Reference.
+[2023.05.28-22.09.29:576][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\_deprecated\ts\lib\LibUtility2.uasset: [Compiler] Can't connect pins  Battle  and  Combat : Object Reference is not compatible with Melee Component Object Reference.
+[2023.05.28-22.09.29:576][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\_deprecated\ts\lib\LibUtility2.uasset: [Compiler] Can't connect pins  Context  and  Context : Object Reference is not compatible with Ts CContext Object Reference.
+[2023.05.28-22.09.29:576][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\_deprecated\ts\lib\LibUtility2.uasset: [Compiler] Can't connect pins  UI  and  UI : Object Reference is not compatible with Ts CHUD Object Reference.
+[2023.05.28-22.09.29:576][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\_deprecated\ts\lib\LibUtility2.uasset: [Compiler] Can't connect pins  Combat  and  Battle : Melee Component Object Reference is not compatible with Object Reference.
+[2023.05.28-22.09.29:576][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\_deprecated\ts\lib\LibUtility2.uasset: [Compiler] Can't connect pins  Context  and  Context : Ts CContext Object Reference is not compatible with Object Reference.
+[2023.05.28-22.09.29:576][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\_deprecated\ts\lib\LibUtility2.uasset: [Compiler] Can't connect pins  UI  and  UI : Ts CHUD Object Reference is not compatible with Object Reference.
+[2023.05.28-22.09.29:576][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\_deprecated\ts\lib\LibUtility2.uasset: [Compiler] Can't connect pins  Battle  and  Combat : Object Reference is not compatible with Melee Component Object Reference.
+[2023.05.28-22.09.29:577][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\_deprecated\ts\lib\LibUtility2.uasset: [Compiler] Can't connect pins  Context  and  Context : Object Reference is not compatible with Ts CContext Object Reference.
+[2023.05.28-22.09.29:577][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\_deprecated\ts\lib\LibUtility2.uasset: [Compiler] Can't connect pins  UI  and  UI : Object Reference is not compatible with Ts CHUD Object Reference.
+[2023.05.28-22.09.29:578][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\_deprecated\ts\lib\LibUtility2.uasset: [Compiler] In use pin  Audio Controller  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:595][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\NavigationFunctions.uasset: [Compiler] Could not find a variable named "Combat" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get Combat
+[2023.05.28-22.09.29:595][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\NavigationFunctions.uasset: [Compiler] Could not find a variable named "IsAttacking" in 'NavigationFunctions'.
+Make sure 'NavigationFunctions' has been compiled for  Get IsAttacking
+[2023.05.28-22.09.29:595][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\NavigationFunctions.uasset: [Compiler] Could not find a variable named "IsBlocking" in 'NavigationFunctions'.
+Make sure 'NavigationFunctions' has been compiled for  Get IsBlocking
+[2023.05.28-22.09.29:595][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\NavigationFunctions.uasset: [Compiler] Could not find a variable named "TargetingComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get TargetingComponent
+[2023.05.28-22.09.29:595][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\NavigationFunctions.uasset: [Compiler] Could not find a variable named "isTargeting" in 'NavigationFunctions'.
+Make sure 'NavigationFunctions' has been compiled for  Get isTargeting
+[2023.05.28-22.09.29:596][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\NavigationFunctions.uasset: [Compiler] Could not find a variable named "IsBlocking" in 'NavigationFunctions'.
+Make sure 'NavigationFunctions' has been compiled for  Get IsBlocking
+[2023.05.28-22.09.29:596][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\NavigationFunctions.uasset: [Compiler] Could not find a variable named "blockHold" in 'NavigationFunctions'.
+Make sure 'NavigationFunctions' has been compiled for  Get blockHold
+[2023.05.28-22.09.29:596][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\NavigationFunctions.uasset: [Compiler] Could not find a variable named "Combat" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get Combat
+[2023.05.28-22.09.29:597][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\NavigationFunctions.uasset: [Compiler] Could not find a variable named "EnergyComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get EnergyComponent
+[2023.05.28-22.09.29:597][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\NavigationFunctions.uasset: [Compiler] Could not find a variable named "Current Value" in 'NavigationFunctions'.
+Make sure 'NavigationFunctions' has been compiled for  Get Current Value
+[2023.05.28-22.09.29:597][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\NavigationFunctions.uasset: [Compiler] Could not find a variable named "isTargeting" in 'NavigationFunctions'.
+Make sure 'NavigationFunctions' has been compiled for  Get isTargeting
+[2023.05.28-22.09.29:597][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\NavigationFunctions.uasset: [Compiler] Could not find a variable named "TargetingComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get TargetingComponent
+[2023.05.28-22.09.29:606][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\status\StatusFunctions.uasset: [Compiler] Could not find a variable named "HPComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get HPComponent
+[2023.05.28-22.09.29:606][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\status\StatusFunctions.uasset: [Compiler] Could not find a variable named "EnergyComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get EnergyComponent
+[2023.05.28-22.09.29:617][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\_deprecated\ts\lib\EmitterMacros.uasset: [Compiler] No DataTable in  Get Data Table Row NONE generated from expanding Get Data Table Row NONE
+[2023.05.28-22.09.29:620][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Plugins\tsUserInterface\Content\game\combat\component\MeleeComponent.uasset: [Compiler] Can Attack  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2023.05.28-22.09.29:622][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Plugins\tsUserInterface\Content\game\combat\component\MeleeComponent.uasset: [Compiler] GetDataTableRow must have a DataTable specified.
+[2023.05.28-22.09.29:629][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Plugins\tsUserInterface\Content\game\combat\component\MeleeComponent.uasset: [Compiler] Could not find a variable named "CriticalBoostComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get CriticalBoostComponent
+[2023.05.28-22.09.29:637][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\Navigation.uasset: [Compiler] GetDataTableRow must have a DataTable specified.
+[2023.05.28-22.09.29:638][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\Navigation.uasset: [Compiler] Could not find a variable named "EnergyComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get EnergyComponent
+[2023.05.28-22.09.29:638][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\Navigation.uasset: [Compiler] Could not find a variable named "Current Value" in 'Navigation'.
+Make sure 'Navigation' has been compiled for  Get Current Value
+[2023.05.28-22.09.29:642][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\Navigation.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Apply Knockback . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:642][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\Navigation.uasset: [Compiler] In use pin  Target  no longer exists on node  Apply Knockback . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:642][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\Navigation.uasset: [Compiler] In use pin  Actor  no longer exists on node  Apply Knockback . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:642][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\Navigation.uasset: [Compiler] In use pin  A  no longer exists on node  Apply Knockback . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:642][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\Navigation.uasset: [Compiler] In use pin  B  no longer exists on node  Apply Knockback . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:642][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\Navigation.uasset: [Compiler] Could not find a function named "ApplyKnockback" in 'Navigation'.
+Make sure 'Navigation' has been compiled for  Apply Knockback
+[2023.05.28-22.09.29:653][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\ui\tsCHUD.uasset: [Compiler] Could not find a variable named "Context" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get Context
+[2023.05.28-22.09.29:658][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Remove Target . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:658][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  Target  no longer exists on node  Remove Target . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:658][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  Other Actor  no longer exists on node  Remove Target . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:658][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  Component  no longer exists on node  Remove Target . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:658][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a function named "Remove Target" in 'BaseCharacter'.
+Make sure 'BaseCharacter' has been compiled for  Remove Target
+[2023.05.28-22.09.29:658][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Add Target . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:658][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  Target  no longer exists on node  Add Target . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:658][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  Other Actor  no longer exists on node  Add Target . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:658][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  Component  no longer exists on node  Add Target . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:658][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a function named "Add Target" in 'BaseCharacter'.
+Make sure 'BaseCharacter' has been compiled for  Add Target
+[2023.05.28-22.09.29:658][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "TargetingComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get TargetingComponent
+[2023.05.28-22.09.29:658][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "OverlappingContextAreas" in 'BaseCharacter'.
+Make sure 'BaseCharacter' has been compiled for  Get OverlappingContextAreas
+[2023.05.28-22.09.29:658][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "Context" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get Context
+[2023.05.28-22.09.29:659][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "OverlappingContextAreas" in 'BaseCharacter'.
+Make sure 'BaseCharacter' has been compiled for  Get OverlappingContextAreas
+[2023.05.28-22.09.29:659][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "Context" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get Context
+[2023.05.28-22.09.29:659][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Dodge Event . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:659][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Dodge Event . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:659][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  Target  no longer exists on node  Dodge Event . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:659][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a function named "Dodge Event" in 'BaseCharacter'.
+Make sure 'BaseCharacter' has been compiled for  Dodge Event
+[2023.05.28-22.09.29:659][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "DodingComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get DodingComponent
+[2023.05.28-22.09.29:659][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Target Release Event . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:659][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Target Release Event . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:659][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  Target  no longer exists on node  Target Release Event . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:659][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a function named "TargetReleaseEvent" in 'BaseCharacter'.
+Make sure 'BaseCharacter' has been compiled for  Target Release Event
+[2023.05.28-22.09.29:659][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Target Press Event . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:659][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Target Press Event . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:659][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  Target  no longer exists on node  Target Press Event . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:659][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a function named "TargetPressEvent" in 'BaseCharacter'.
+Make sure 'BaseCharacter' has been compiled for  Target Press Event
+[2023.05.28-22.09.29:659][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "TargetingComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get TargetingComponent
+[2023.05.28-22.09.29:660][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "Combat" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get Combat
+[2023.05.28-22.09.29:660][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  End Block . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:660][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  End Block . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:660][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  Target  no longer exists on node  End Block . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:660][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a function named "EndBlock" in 'BaseCharacter'.
+Make sure 'BaseCharacter' has been compiled for  End Block
+[2023.05.28-22.09.29:660][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Begin Block . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:660][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Begin Block . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:660][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  Target  no longer exists on node  Begin Block . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:660][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a function named "BeginBlock" in 'BaseCharacter'.
+Make sure 'BaseCharacter' has been compiled for  Begin Block
+[2023.05.28-22.09.29:660][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "Combat" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get Combat
+[2023.05.28-22.09.29:660][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Melee Event . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:660][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  Target  no longer exists on node  Melee Event . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:660][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a function named "MeleeEvent" in 'BaseCharacter'.
+Make sure 'BaseCharacter' has been compiled for  Melee Event
+[2023.05.28-22.09.29:661][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "HPComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get HPComponent
+[2023.05.28-22.09.29:661][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "EnergyComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get EnergyComponent
+[2023.05.28-22.09.29:661][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "Current Value" in 'BaseCharacter'.
+Make sure 'BaseCharacter' has been compiled for  Set Current Value
+[2023.05.28-22.09.29:661][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "Current Value" in 'BaseCharacter'.
+Make sure 'BaseCharacter' has been compiled for  Set Current Value
+[2023.05.28-22.09.29:661][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "Combat" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get Combat
+[2023.05.28-22.09.29:661][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "Context" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get Context
+[2023.05.28-22.09.29:661][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "UIComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get UIComponent
+[2023.05.28-22.09.29:662][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "HPComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get HPComponent
+[2023.05.28-22.09.29:662][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Update Value . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:662][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  Target  no longer exists on node  Update Value . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:663][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a function named "Update Value" in 'BaseCharacter'.
+Make sure 'BaseCharacter' has been compiled for  Update Value
+[2023.05.28-22.09.29:663][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "HPComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get HPComponent
+[2023.05.28-22.09.29:663][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "Is Alive" in 'BaseCharacter'.
+Make sure 'BaseCharacter' has been compiled for  Get Is Alive
+[2023.05.28-22.09.29:663][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "Combat" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get Combat
+[2023.05.28-22.09.29:664][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "IsAttacking" in 'BaseCharacter'.
+Make sure 'BaseCharacter' has been compiled for  Get IsAttacking
+[2023.05.28-22.09.29:664][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Self node  Self-Reference  cannot be used in a static function.
+[2023.05.28-22.09.29:664][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "EnergyComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get EnergyComponent
+[2023.05.28-22.09.29:664][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "Current Value" in 'BaseCharacter'.
+Make sure 'BaseCharacter' has been compiled for  Get Current Value
+[2023.05.28-22.09.29:664][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "IsDodging" in 'BaseCharacter'.
+Make sure 'BaseCharacter' has been compiled for  Get IsDodging
+[2023.05.28-22.09.29:664][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "DodingComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get DodingComponent
+[2023.05.28-22.09.29:665][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "LootComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get LootComponent
+[2023.05.28-22.09.29:665][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Drop Loot . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:665][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Drop Loot . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:665][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  Target  no longer exists on node  Drop Loot . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:665][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a function named "Drop Loot" in 'BaseCharacter'.
+Make sure 'BaseCharacter' has been compiled for  Drop Loot
+[2023.05.28-22.09.29:665][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "MPComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get MPComponent
+[2023.05.28-22.09.29:665][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Update Value . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:665][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  Target  no longer exists on node  Update Value . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:665][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  Amount  no longer exists on node  Update Value . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:665][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a function named "Update Value" in 'BaseCharacter'.
+Make sure 'BaseCharacter' has been compiled for  Update Value
+[2023.05.28-22.09.29:665][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Update Value . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:665][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  Target  no longer exists on node  Update Value . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:665][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] In use pin  Amount  no longer exists on node  Update Value . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:665][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a function named "Update Value" in 'BaseCharacter'.
+Make sure 'BaseCharacter' has been compiled for  Update Value
+[2023.05.28-22.09.29:666][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] Could not find a variable named "XPComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get XPComponent
+[2023.05.28-22.09.29:680][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\_deprecated\misc\DebugHUDWidget.uasset: [Compiler] Could not find a variable named "HPComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get HPComponent
+[2023.05.28-22.09.29:680][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\_deprecated\misc\DebugHUDWidget.uasset: [Compiler] Could not find a variable named "EnergyComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get EnergyComponent
+[2023.05.28-22.09.29:683][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a variable named "HPComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get HPComponent
+[2023.05.28-22.09.29:683][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] In use pin  Target  no longer exists on node  Get Percentage . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:683][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] In use pin  Percentage  no longer exists on node  Get Percentage . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:683][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a function named "Get Percentage" in 'WidgetPlayerStatus'.
+Make sure 'WidgetPlayerStatus' has been compiled for  Get Percentage
+[2023.05.28-22.09.29:684][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a variable named "HPComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get HPComponent
+[2023.05.28-22.09.29:684][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a variable named "Current Value" in 'WidgetPlayerStatus'.
+Make sure 'WidgetPlayerStatus' has been compiled for  Get Current Value
+[2023.05.28-22.09.29:684][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a variable named "HPComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get HPComponent
+[2023.05.28-22.09.29:684][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a variable named "Current Value" in 'WidgetPlayerStatus'.
+Make sure 'WidgetPlayerStatus' has been compiled for  Get Current Value
+[2023.05.28-22.09.29:684][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a variable named "EnergyComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get EnergyComponent
+[2023.05.28-22.09.29:684][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a variable named "Current Value" in 'WidgetPlayerStatus'.
+Make sure 'WidgetPlayerStatus' has been compiled for  Get Current Value
+[2023.05.28-22.09.29:685][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a variable named "EnergyComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get EnergyComponent
+[2023.05.28-22.09.29:685][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] In use pin  Target  no longer exists on node  Get Percentage . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:685][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] In use pin  Percentage  no longer exists on node  Get Percentage . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:685][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a function named "Get Percentage" in 'WidgetPlayerStatus'.
+Make sure 'WidgetPlayerStatus' has been compiled for  Get Percentage
+[2023.05.28-22.09.29:685][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a variable named "CriticalBoostComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get CriticalBoostComponent
+[2023.05.28-22.09.29:685][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] In use pin  Target  no longer exists on node  Get Percentage . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:685][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] In use pin  Percentage  no longer exists on node  Get Percentage . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:685][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a function named "Get Percentage" in 'WidgetPlayerStatus'.
+Make sure 'WidgetPlayerStatus' has been compiled for  Get Percentage
+[2023.05.28-22.09.29:685][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a variable named "MPComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get MPComponent
+[2023.05.28-22.09.29:685][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] In use pin  Target  no longer exists on node  Get Percentage . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:685][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] In use pin  Percentage  no longer exists on node  Get Percentage . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:686][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a function named "Get Percentage" in 'WidgetPlayerStatus'.
+Make sure 'WidgetPlayerStatus' has been compiled for  Get Percentage
+[2023.05.28-22.09.29:686][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a variable named "XPComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get XPComponent
+[2023.05.28-22.09.29:686][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] In use pin  Target  no longer exists on node  Get Percentage . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:686][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] In use pin  Percentage  no longer exists on node  Get Percentage . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:686][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a function named "Get Percentage" in 'WidgetPlayerStatus'.
+Make sure 'WidgetPlayerStatus' has been compiled for  Get Percentage
+[2023.05.28-22.09.29:686][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a variable named "Combat" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get Combat
+[2023.05.28-22.09.29:686][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a variable named "ComboTimer" in 'WidgetPlayerStatus'.
+Make sure 'WidgetPlayerStatus' has been compiled for  Get ComboTimer
+[2023.05.28-22.09.29:687][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a variable named "Combat" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get Combat
+[2023.05.28-22.09.29:687][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a variable named "ComboTimer" in 'WidgetPlayerStatus'.
+Make sure 'WidgetPlayerStatus' has been compiled for  Get ComboTimer
+[2023.05.28-22.09.29:687][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a variable named "XPComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get XPComponent
+[2023.05.28-22.09.29:687][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] In use pin  Target  no longer exists on node  Get Percentage . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:687][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] In use pin  Percentage  no longer exists on node  Get Percentage . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:687][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a function named "Get Percentage" in 'WidgetPlayerStatus'.
+Make sure 'WidgetPlayerStatus' has been compiled for  Get Percentage
+[2023.05.28-22.09.29:687][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a variable named "MPComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get MPComponent
+[2023.05.28-22.09.29:687][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] In use pin  Target  no longer exists on node  Get Percentage . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:688][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] In use pin  Percentage  no longer exists on node  Get Percentage . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:688][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a function named "Get Percentage" in 'WidgetPlayerStatus'.
+Make sure 'WidgetPlayerStatus' has been compiled for  Get Percentage
+[2023.05.28-22.09.29:688][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a variable named "CriticalBoostComponent" in 'BaseCharacter_C'.
+Make sure 'BaseCharacter_C' has been compiled for  Get CriticalBoostComponent
+[2023.05.28-22.09.29:688][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] In use pin  Target  no longer exists on node  Get Percentage . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:688][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] In use pin  Percentage  no longer exists on node  Get Percentage . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:688][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] Could not find a function named "Get Percentage" in 'WidgetPlayerStatus'.
+Make sure 'WidgetPlayerStatus' has been compiled for  Get Percentage
+[2023.05.28-22.09.29:692][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] InputAction Event references unknown Action 'FaceButtonTop' for  InputAction FaceButtonTop
+[2023.05.28-22.09.29:692][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input Axis Event references unknown Axis 'RightStickY' for  InputAxis RightStickY
+[2023.05.28-22.09.29:692][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input Axis Event references unknown Axis 'RightStickX' for  InputAxis RightStickX
+[2023.05.28-22.09.29:692][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] InputAction Event references unknown Action 'DpadLeft' for  InputAction DpadLeft
+[2023.05.28-22.09.29:692][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] InputAction Event references unknown Action 'DPadDown' for  InputAction DPadDown
+[2023.05.28-22.09.29:692][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] InputAction Event references unknown Action 'DPadRight' for  InputAction DPadRight
+[2023.05.28-22.09.29:692][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] InputAction Event references unknown Action 'DPadUp' for  InputAction DPadUp
+[2023.05.28-22.09.29:692][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2023.05.28-22.09.29:692][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2023.05.28-22.09.29:692][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] InputAction Event references unknown Action 'Start' for  InputAction Start
+[2023.05.28-22.09.29:692][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] InputAction Event references unknown Action 'Select' for  InputAction Select
+[2023.05.28-22.09.29:692][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] InputAction Event references unknown Action 'RightTrigger' for  InputAction RightTrigger
+[2023.05.28-22.09.29:692][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] InputAction Event references unknown Action 'RightShoulder' for  InputAction RightShoulder
+[2023.05.28-22.09.29:692][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] InputAction Event references unknown Action 'LeftTrigger' for  InputAction LeftTrigger
+[2023.05.28-22.09.29:692][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] InputAction Event references unknown Action 'LeftShoulder' for  InputAction LeftShoulder
+[2023.05.28-22.09.29:692][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] InputAction Event references unknown Action 'FaceButtonLeft' for  InputAction FaceButtonLeft
+[2023.05.28-22.09.29:692][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] InputAction Event references unknown Action 'FaceButtonBottom' for  InputAction FaceButtonBottom
+[2023.05.28-22.09.29:693][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] InputAction Event references unknown Action 'FaceButtonRight' for  InputAction FaceButtonRight
+[2023.05.28-22.09.29:695][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2023.05.28-22.09.29:695][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] In use pin  Forward Vector  no longer exists on node  SpawnActor NONE . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:695][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] In use pin  Owner Reference  no longer exists on node  SpawnActor NONE . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:695][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input pin  Effect Sound  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2023.05.28-22.09.29:695][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input pin  Spawn Sound  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2023.05.28-22.09.29:695][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input pin  Effect Emitter  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2023.05.28-22.09.29:695][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input pin  Spawn Emitter  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2023.05.28-22.09.29:695][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input pin  Particle Scale  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2023.05.28-22.09.29:695][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2023.05.28-22.09.29:696][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Could not find a variable named "UIComponent" in 'BasePlayer_C'.
+Make sure 'BasePlayer_C' has been compiled for  Get UIComponent
+[2023.05.28-22.09.29:696][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  HUDShow . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:696][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  HUDShow . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:696][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] In use pin  Target  no longer exists on node  HUDShow . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:697][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Could not find a function named "HUDShow" in 'BasePlayer'.
+Make sure 'BasePlayer' has been compiled for  HUDShow
+[2023.05.28-22.09.29:697][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  LPF . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:697][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] In use pin  Target  no longer exists on node  LPF . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:697][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] In use pin  Health  no longer exists on node  LPF . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:697][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Could not find a function named "LPF" in 'BasePlayer'.
+Make sure 'BasePlayer' has been compiled for  LPF
+[2023.05.28-22.09.29:697][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Could not find a variable named "HPComponent" in 'BasePlayer_C'.
+Make sure 'BasePlayer_C' has been compiled for  Get HPComponent
+[2023.05.28-22.09.29:697][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] In use pin  Target  no longer exists on node  Get Percentage . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:697][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] In use pin  Percentage  no longer exists on node  Get Percentage . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:697][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Could not find a function named "Get Percentage" in 'BasePlayer'.
+Make sure 'BasePlayer' has been compiled for  Get Percentage
+[2023.05.28-22.09.29:697][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2023.05.28-22.09.29:697][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] In use pin  Owner Reference  no longer exists on node  SpawnActor NONE . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:697][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input pin  Effect Amount  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2023.05.28-22.09.29:697][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input pin  Effect Sound  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2023.05.28-22.09.29:697][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input pin  Spawn Sound  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2023.05.28-22.09.29:697][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input pin  Effect Emitter  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2023.05.28-22.09.29:698][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input pin  Spawn Emitter  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2023.05.28-22.09.29:698][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input pin  Spawn Emitter Scale Multiplier  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2023.05.28-22.09.29:698][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input pin  Particle Scale  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2023.05.28-22.09.29:698][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2023.05.28-22.09.29:698][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Could not find a variable named "MPComponent" in 'BasePlayer_C'.
+Make sure 'BasePlayer_C' has been compiled for  Get MPComponent
+[2023.05.28-22.09.29:698][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Could not find a variable named "Current Value" in 'BasePlayer'.
+Make sure 'BasePlayer' has been compiled for  Get Current Value
+[2023.05.28-22.09.29:698][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Could not find a variable named "MPComponent" in 'BasePlayer_C'.
+Make sure 'BasePlayer_C' has been compiled for  Get MPComponent
+[2023.05.28-22.09.29:698][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Update Value . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:698][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Update Value . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:698][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] In use pin  Target  no longer exists on node  Update Value . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:698][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input pin  Amount  specifying non-default value no longer exists on node  Update Value . Please refresh node or reset pin to default value to remove pin.
+[2023.05.28-22.09.29:698][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Could not find a function named "Update Value" in 'BasePlayer'.
+Make sure 'BasePlayer' has been compiled for  Update Value
+[2023.05.28-22.09.29:698][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2023.05.28-22.09.29:699][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] In use pin  Owner Reference  no longer exists on node  SpawnActor NONE . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:699][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input pin  Effect Amount  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2023.05.28-22.09.29:699][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input pin  Effect Sound  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2023.05.28-22.09.29:699][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input pin  Spawn Sound  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2023.05.28-22.09.29:699][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input pin  Effect Emitter  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2023.05.28-22.09.29:699][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input pin  Spawn Emitter  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2023.05.28-22.09.29:699][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input pin  Spawn Emitter Scale Multiplier  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2023.05.28-22.09.29:699][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input pin  Particle Scale  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2023.05.28-22.09.29:699][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2023.05.28-22.09.29:699][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Could not find a variable named "MPComponent" in 'BasePlayer_C'.
+Make sure 'BasePlayer_C' has been compiled for  Get MPComponent
+[2023.05.28-22.09.29:699][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Could not find a variable named "Current Value" in 'BasePlayer'.
+Make sure 'BasePlayer' has been compiled for  Get Current Value
+[2023.05.28-22.09.29:699][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Could not find a variable named "MPComponent" in 'BasePlayer_C'.
+Make sure 'BasePlayer_C' has been compiled for  Get MPComponent
+[2023.05.28-22.09.29:699][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Update Value . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:699][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Update Value . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:699][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] In use pin  Target  no longer exists on node  Update Value . Please refresh node or break links to remove pin.
+[2023.05.28-22.09.29:699][ 26]LogBlueprint: Warning: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Input pin  Amount  specifying non-default value no longer exists on node  Update Value . Please refresh node or reset pin to default value to remove pin.
+[2023.05.28-22.09.29:699][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BasePlayer.uasset: [Compiler] Could not find a function named "Update Value" in 'BasePlayer'.
+Make sure 'BasePlayer' has been compiled for  Update Value
+[2023.05.28-22.09.29:704][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\sys\changaInstance.uasset: [Compiler] The property associated with  HPComponent  could not be found in '/Game/changa/sys/changaInstance.changaInstance_C'
+[2023.05.28-22.09.29:704][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\sys\changaInstance.uasset: [Compiler] The property associated with  Energy Component  could not be found in '/Game/changa/sys/changaInstance.changaInstance_C'
+[2023.05.28-22.09.29:704][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\sys\changaInstance.uasset: [Compiler] The property associated with  Current Value  could not be found in '/Game/changa/sys/changaInstance.changaInstance_C'
+[2023.05.28-22.09.29:704][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\sys\changaInstance.uasset: [Compiler] The property associated with  Current Value  could not be found in '/Game/changa/sys/changaInstance.changaInstance_C'
+[2023.05.28-22.09.29:705][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\status\DeathHandler.uasset: [Compiler] The property associated with  UIComponent generated from expanding Run Death  could not be found in '/Game/changa/actor/status/DeathHandler.DeathHandler_C'
+[2023.05.28-22.09.29:713][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\NavigationFunctions.uasset: [Compiler] The property associated with  Targeting Component  could not be found in '/Game/changa/actor/character/navigation/NavigationFunctions.NavigationFunctions_C'
+[2023.05.28-22.09.29:713][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\NavigationFunctions.uasset: [Compiler] The property associated with  Is Targeting  could not be found in '/Game/changa/actor/character/navigation/NavigationFunctions.NavigationFunctions_C'
+[2023.05.28-22.09.29:713][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\NavigationFunctions.uasset: [Compiler] The property associated with  Combat  could not be found in '/Game/changa/actor/character/navigation/NavigationFunctions.NavigationFunctions_C'
+[2023.05.28-22.09.29:713][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\NavigationFunctions.uasset: [Compiler] The property associated with  Is Blocking  could not be found in '/Game/changa/actor/character/navigation/NavigationFunctions.NavigationFunctions_C'
+[2023.05.28-22.09.29:713][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\NavigationFunctions.uasset: [Compiler] The property associated with  Is Attacking  could not be found in '/Game/changa/actor/character/navigation/NavigationFunctions.NavigationFunctions_C'
+[2023.05.28-22.09.29:713][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\NavigationFunctions.uasset: [Compiler] The property associated with  Combat  could not be found in '/Game/changa/actor/character/navigation/NavigationFunctions.NavigationFunctions_C'
+[2023.05.28-22.09.29:713][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\NavigationFunctions.uasset: [Compiler] The property associated with  Block Hold  could not be found in '/Game/changa/actor/character/navigation/NavigationFunctions.NavigationFunctions_C'
+[2023.05.28-22.09.29:713][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\NavigationFunctions.uasset: [Compiler] The property associated with  Is Blocking  could not be found in '/Game/changa/actor/character/navigation/NavigationFunctions.NavigationFunctions_C'
+[2023.05.28-22.09.29:713][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\NavigationFunctions.uasset: [Compiler] The property associated with  Targeting Component  could not be found in '/Game/changa/actor/character/navigation/NavigationFunctions.NavigationFunctions_C'
+[2023.05.28-22.09.29:713][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\NavigationFunctions.uasset: [Compiler] The property associated with  Is Targeting  could not be found in '/Game/changa/actor/character/navigation/NavigationFunctions.NavigationFunctions_C'
+[2023.05.28-22.09.29:714][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\NavigationFunctions.uasset: [Compiler] The property associated with  Energy Component  could not be found in '/Game/changa/actor/character/navigation/NavigationFunctions.NavigationFunctions_C'
+[2023.05.28-22.09.29:714][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\NavigationFunctions.uasset: [Compiler] The property associated with  Current Value  could not be found in '/Game/changa/actor/character/navigation/NavigationFunctions.NavigationFunctions_C'
+[2023.05.28-22.09.29:716][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\status\StatusFunctions.uasset: [Compiler] The property associated with  HPComponent  could not be found in '/Game/changa/actor/status/StatusFunctions.StatusFunctions_C'
+[2023.05.28-22.09.29:716][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\status\StatusFunctions.uasset: [Compiler] The property associated with  Energy Component  could not be found in '/Game/changa/actor/status/StatusFunctions.StatusFunctions_C'
+[2023.05.28-22.09.29:722][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Plugins\tsUserInterface\Content\game\combat\component\MeleeComponent.uasset: [Compiler] The property associated with  Critical Boost Component  could not be found in '/tsUserInterface/game/combat/component/MeleeComponent.MeleeComponent_C'
+[2023.05.28-22.09.29:724][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\Navigation.uasset: [Compiler] The property associated with  Energy Component  could not be found in '/Game/changa/actor/character/navigation/Navigation.Navigation_C'
+[2023.05.28-22.09.29:724][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\navigation\Navigation.uasset: [Compiler] The property associated with  Current Value  could not be found in '/Game/changa/actor/character/navigation/Navigation.Navigation_C'
+[2023.05.28-22.09.29:727][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\ui\tsCHUD.uasset: [Compiler] The property associated with  Context  could not be found in '/Game/_future/ui/tsCHUD.tsCHUD_C'
+[2023.05.28-22.09.29:728][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] The property associated with  Combat  could not be found in '/Game/changa/actor/character/BaseCharacter.BaseCharacter_C'
+[2023.05.28-22.09.29:728][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] The property associated with  Combat  could not be found in '/Game/changa/actor/character/BaseCharacter.BaseCharacter_C'
+[2023.05.28-22.09.29:728][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] The property associated with  Targeting Component  could not be found in '/Game/changa/actor/character/BaseCharacter.BaseCharacter_C'
+[2023.05.28-22.09.29:728][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] The property associated with  Doding Component  could not be found in '/Game/changa/actor/character/BaseCharacter.BaseCharacter_C'
+[2023.05.28-22.09.29:728][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] The property associated with  Context  could not be found in '/Game/changa/actor/character/BaseCharacter.BaseCharacter_C'
+[2023.05.28-22.09.29:728][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] The property associated with  Context  could not be found in '/Game/changa/actor/character/BaseCharacter.BaseCharacter_C'
+[2023.05.28-22.09.29:728][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] The property associated with  Overlapping Context Areas  could not be found in '/Game/changa/actor/character/BaseCharacter.BaseCharacter_C'
+[2023.05.28-22.09.29:728][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] The property associated with  Overlapping Context Areas  could not be found in '/Game/changa/actor/character/BaseCharacter.BaseCharacter_C'
+[2023.05.28-22.09.29:728][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] The property associated with  Targeting Component  could not be found in '/Game/changa/actor/character/BaseCharacter.BaseCharacter_C'
+[2023.05.28-22.09.29:728][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] The property associated with  Energy Component  could not be found in '/Game/changa/actor/character/BaseCharacter.BaseCharacter_C'
+[2023.05.28-22.09.29:728][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] The property associated with  Current Value  could not be found in '/Game/changa/actor/character/BaseCharacter.BaseCharacter_C'
+[2023.05.28-22.09.29:729][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] The property associated with  HPComponent  could not be found in '/Game/changa/actor/character/BaseCharacter.BaseCharacter_C'
+[2023.05.28-22.09.29:729][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] The property associated with  Current Value  could not be found in '/Game/changa/actor/character/BaseCharacter.BaseCharacter_C'
+[2023.05.28-22.09.29:729][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] The property associated with  UIComponent  could not be found in '/Game/changa/actor/character/BaseCharacter.BaseCharacter_C'
+[2023.05.28-22.09.29:729][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] The property associated with  Context  could not be found in '/Game/changa/actor/character/BaseCharacter.BaseCharacter_C'
+[2023.05.28-22.09.29:729][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] The property associated with  Combat  could not be found in '/Game/changa/actor/character/BaseCharacter.BaseCharacter_C'
+[2023.05.28-22.09.29:729][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] The property associated with  Doding Component  could not be found in '/Game/changa/actor/character/BaseCharacter.BaseCharacter_C'
+[2023.05.28-22.09.29:729][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] The property associated with  Is Dodging  could not be found in '/Game/changa/actor/character/BaseCharacter.BaseCharacter_C'
+[2023.05.28-22.09.29:729][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] The property associated with  Energy Component  could not be found in '/Game/changa/actor/character/BaseCharacter.BaseCharacter_C'
+[2023.05.28-22.09.29:729][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] The property associated with  Current Value  could not be found in '/Game/changa/actor/character/BaseCharacter.BaseCharacter_C'
+[2023.05.28-22.09.29:729][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] The property associated with  Combat  could not be found in '/Game/changa/actor/character/BaseCharacter.BaseCharacter_C'
+[2023.05.28-22.09.29:729][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\actor\character\BaseCharacter.uasset: [Compiler] The property associated with  Is Attacking  could not be found in '/Game/changa/actor/character/BaseCharacter.BaseCharacter_C'
+[2023.05.28-22.09.29:738][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\_deprecated\misc\DebugHUDWidget.uasset: [Compiler] The property associated with  HPComponent  could not be found in '/Game/_future/_deprecated/misc/DebugHUDWidget.DebugHUDWidget_C'
+[2023.05.28-22.09.29:738][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\_future\_deprecated\misc\DebugHUDWidget.uasset: [Compiler] The property associated with  Energy Component  could not be found in '/Game/_future/_deprecated/misc/DebugHUDWidget.DebugHUDWidget_C'
+[2023.05.28-22.09.29:741][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] The property associated with  HPComponent  could not be found in '/Game/changa/ui/overlay/hud/WidgetPlayerStatus.WidgetPlayerStatus_C'
+[2023.05.28-22.09.29:741][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] The property associated with  Current Value  could not be found in '/Game/changa/ui/overlay/hud/WidgetPlayerStatus.WidgetPlayerStatus_C'
+[2023.05.28-22.09.29:741][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] The property associated with  HPComponent  could not be found in '/Game/changa/ui/overlay/hud/WidgetPlayerStatus.WidgetPlayerStatus_C'
+[2023.05.28-22.09.29:741][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] The property associated with  Current Value  could not be found in '/Game/changa/ui/overlay/hud/WidgetPlayerStatus.WidgetPlayerStatus_C'
+[2023.05.28-22.09.29:741][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] The property associated with  Energy Component  could not be found in '/Game/changa/ui/overlay/hud/WidgetPlayerStatus.WidgetPlayerStatus_C'
+[2023.05.28-22.09.29:741][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] The property associated with  Current Value  could not be found in '/Game/changa/ui/overlay/hud/WidgetPlayerStatus.WidgetPlayerStatus_C'
+[2023.05.28-22.09.29:741][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] The property associated with  Combat  could not be found in '/Game/changa/ui/overlay/hud/WidgetPlayerStatus.WidgetPlayerStatus_C'
+[2023.05.28-22.09.29:742][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] The property associated with  Combo Timer  could not be found in '/Game/changa/ui/overlay/hud/WidgetPlayerStatus.WidgetPlayerStatus_C'
+[2023.05.28-22.09.29:742][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] The property associated with  Combat  could not be found in '/Game/changa/ui/overlay/hud/WidgetPlayerStatus.WidgetPlayerStatus_C'
+[2023.05.28-22.09.29:742][ 26]LogBlueprint: Error: [AssetLog] D:\unreal_engine\tsCorePlugins\Content\changa\ui\overlay\hud\WidgetPlayerStatus.uasset: [Compiler] The property associated with  Combo Timer  could not be found in '/Game/changa/ui/overlay/hud/WidgetPlayerStatus.WidgetPlayerStatus_C'

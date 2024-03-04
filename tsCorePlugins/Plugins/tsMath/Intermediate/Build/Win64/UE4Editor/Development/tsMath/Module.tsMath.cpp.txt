@@ -1,0 +1,10 @@
+D:\unreal_engine\plugin_development\tsSimPlugins\Plugins\tsMath\Intermediate\Build\Win64\UE4Editor\Development\tsMath\Definitions.tsMath.h
+D:/unreal_engine/plugin_development/tsSimPlugins/Plugins/tsMath/Source/tsMath/Private/tsMath.cpp
+D:\unreal_engine\plugin_development\tsSimPlugins\Plugins\tsMath\Source\tsMath\Public\tsMath.h
+D:/unreal_engine/plugin_development/tsSimPlugins/Plugins/tsMath/Source/tsMath/Private/tsMathBPLibrary.cpp
+D:\unreal_engine\plugin_development\tsSimPlugins\Plugins\tsMath\Source\tsMath\Public\tsMathBPLibrary.h
+D:\unreal_engine\plugin_development\tsSimPlugins\Plugins\tsMath\Intermediate\Build\Win64\UE4Editor\Inc\tsMath\tsMathBPLibrary.generated.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMathLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetMathLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\KismetMathLibrary.inl

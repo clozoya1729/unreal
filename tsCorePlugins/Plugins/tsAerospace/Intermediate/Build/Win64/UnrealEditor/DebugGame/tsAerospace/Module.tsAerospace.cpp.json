@@ -1,0 +1,20 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unreal_engine\\plugin_development\\tscoreplugins\\plugins\\tsaerospace\\intermediate\\build\\win64\\unrealeditor\\debuggame\\tsaerospace\\module.tsaerospace.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal_engine\\plugin_development\\tscoreplugins\\intermediate\\build\\win64\\tscorepluginseditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal_engine\\plugin_development\\tscoreplugins\\plugins\\tsaerospace\\intermediate\\build\\win64\\unrealeditor\\debuggame\\tsaerospace\\definitions.tsaerospace.h",
+            "d:\\unreal_engine\\plugin_development\\tscoreplugins\\plugins\\tsaerospace\\source\\tsaerospace\\private\\tsaerospace.cpp",
+            "d:\\unreal_engine\\plugin_development\\tscoreplugins\\plugins\\tsaerospace\\source\\tsaerospace\\public\\tsaerospace.h",
+            "d:\\unreal_engine\\plugin_development\\tscoreplugins\\plugins\\tsaerospace\\source\\tsaerospace\\private\\tsaerospacebplibrary.cpp",
+            "d:\\unreal_engine\\plugin_development\\tscoreplugins\\plugins\\tsaerospace\\source\\tsaerospace\\public\\tsaerospacebplibrary.h",
+            "d:\\unreal_engine\\plugin_development\\tscoreplugins\\plugins\\tsaerospace\\intermediate\\build\\win64\\unrealeditor\\inc\\tsaerospace\\tsaerospacebplibrary.generated.h",
+            "d:\\unreal_engine\\plugin_development\\tscoreplugins\\plugins\\tsmath\\source\\tsmath\\public\\tsmathbplibrary.h",
+            "d:\\unreal_engine\\plugin_development\\tscoreplugins\\plugins\\tsmath\\intermediate\\build\\win64\\unrealeditor\\inc\\tsmath\\tsmathbplibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

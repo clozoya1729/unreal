@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-tsUserInterface.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\unreal_engine\plugin_development\tsSimPlugins\Intermediate\Build\Win64\PluginDevEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\unreal_engine\plugin_development\tsSimPlugins\Plugins\tsUserInterface\Intermediate\Build\Win64\UE4Editor\Development\tsUserInterface\Module.tsUserInterface.cpp.obj"
+"D:\unreal_engine\plugin_development\tsSimPlugins\Plugins\tsUserInterface\Intermediate\Build\Win64\UE4Editor\Development\tsUserInterface\Module.tsUserInterface.gen.cpp.obj"
+"D:\unreal_engine\plugin_development\tsSimPlugins\Plugins\tsUserInterface\Intermediate\Build\Win64\UE4Editor\Development\tsUserInterface\Default.rc2.res"
+/OUT:"D:\unreal_engine\plugin_development\tsSimPlugins\Plugins\tsUserInterface\Intermediate\Build\Win64\UE4Editor\Development\tsUserInterface\UE4Editor-tsUserInterface.lib"

@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.tsUserInterface.cpp.obj": [
+			"tsUserInterface.cpp.obj",
+			"tsUserInterfaceBPLibrary.cpp.obj"
+		],
+		"Module.tsUserInterface.gen.cpp.obj": [
+			"tsUserInterface.init.gen.cpp.obj",
+			"tsUserInterfaceBPLibrary.gen.cpp.obj"
+		]
+	}
+}

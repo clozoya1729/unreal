@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-tsMath.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\unreal_engine\plugin_development\tsCorePlugins\Intermediate\Build\Win64\tsCorePluginsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\unreal_engine\plugin_development\tsCorePlugins\Plugins\tsMath\Intermediate\Build\Win64\UnrealEditor\Development\tsMath\Module.tsMath.cpp.obj"
+"D:\unreal_engine\plugin_development\tsCorePlugins\Plugins\tsMath\Intermediate\Build\Win64\UnrealEditor\Development\tsMath\Module.tsMath.gen.cpp.obj"
+"D:\unreal_engine\plugin_development\tsCorePlugins\Plugins\tsMath\Intermediate\Build\Win64\UnrealEditor\Development\tsMath\Default.rc2.res"
+/OUT:"D:\unreal_engine\plugin_development\tsCorePlugins\Plugins\tsMath\Intermediate\Build\Win64\UnrealEditor\Development\tsMath\UnrealEditor-tsMath.lib"
