@@ -74,8 +74,8 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 reference/*
-# lozoya_unreal/Intermediate/*
-# lozoya_unreal/Plugins/Intermediate/*
+lozoya_unreal/Intermediate/*
+lozoya_unreal/Plugins/Intermediate/*
 lozoya_unreal/Saved/Autosaves/*
 lozoya_unreal/Saved/Crashes/*
 lozoya_unreal/Saved/Logs/*
