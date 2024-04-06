@@ -1,7 +1,0 @@
-D:\unreal_engine\plugin_development\tsSimPlugins\Plugins\tsAerospace\Intermediate\Build\Win64\UE4Editor\Development\tsAerospace\Definitions.tsAerospace.h
-D:/unreal_engine/plugin_development/tsSimPlugins/Plugins/tsAerospace/Intermediate/Build/Win64/UE4Editor/Inc/tsAerospace/tsAerospace.init.gen.cpp
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:/unreal_engine/plugin_development/tsSimPlugins/Plugins/tsAerospace/Intermediate/Build/Win64/UE4Editor/Inc/tsAerospace/tsAerospaceBPLibrary.gen.cpp
-D:\unreal_engine\plugin_development\tsSimPlugins\Plugins\tsAerospace\Source\tsAerospace/Public/tsAerospaceBPLibrary.h
-D:\unreal_engine\plugin_development\tsSimPlugins\Plugins\tsAerospace\Intermediate\Build\Win64\UE4Editor\Inc\tsAerospace\tsAerospaceBPLibrary.generated.h

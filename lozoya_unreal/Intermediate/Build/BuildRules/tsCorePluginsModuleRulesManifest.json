@@ -1,11 +1,9 @@
 {
 	"SourceFiles": [
-		"D:\\unreal_engine\\plugin_development\\tsCorePlugins\\Source\\tsCorePlugins\\tsCorePlugins.Build.cs",
-		"D:\\unreal_engine\\plugin_development\\tsCorePlugins\\Plugins\\tsAerospace\\Source\\tsAerospace\\tsAerospace.Build.cs",
-		"D:\\unreal_engine\\plugin_development\\tsCorePlugins\\Plugins\\tsMath\\Source\\tsMath\\tsMath.Build.cs",
-		"D:\\unreal_engine\\plugin_development\\tsCorePlugins\\Plugins\\tsUserInterface\\Source\\tsUserInterface\\tsUserInterface.Build.cs",
-		"D:\\unreal_engine\\plugin_development\\tsCorePlugins\\Source\\tsCorePlugins.Target.cs",
-		"D:\\unreal_engine\\plugin_development\\tsCorePlugins\\Source\\tsCorePluginsEditor.Target.cs"
+		"E:\\unreal\\lozoya_unreal\\Source\\tsCorePlugins\\tsCorePlugins.Build.cs",
+		"E:\\unreal\\lozoya_unreal\\Plugins\\tsUserInterface\\Source\\tsUserInterface\\tsUserInterface.Build.cs",
+		"E:\\unreal\\lozoya_unreal\\Source\\tsCorePlugins.Target.cs",
+		"E:\\unreal\\lozoya_unreal\\Source\\tsCorePluginsEditor.Target.cs"
 	],
 	"EngineVersion": "5.0.3"
 }
