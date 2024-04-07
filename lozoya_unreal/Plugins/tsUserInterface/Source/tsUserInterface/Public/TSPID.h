@@ -4,7 +4,8 @@
 
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
-#include "tsPidComponent.generated.h"
+#include "TSPID.generated.h"
+
 class TSPID
 {
 public:
