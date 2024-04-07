@@ -1,3 +1,4 @@
+
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -81,3 +82,5 @@ lozoya_unreal/Saved/Autosaves/*
 lozoya_unreal/Saved/Crashes/*
 lozoya_unreal/Saved/Logs/*
 lozoya_unreal/Saved/AutoScreenshot.png
+lozoya_unreal/Content/Collections/*
+lozoya_unreal/Content/Developers/*
